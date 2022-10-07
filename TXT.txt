@@ -1,0 +1,9 @@
+https://api.henleypassportindex.com/api/rankings/2022
+https://api.henleypassportindex.com/api/country/list
+https://api.henleypassportindex.com/api/passports
+https://api.henleypassportindex.com/api/passports/US/countries
+
+
+eTA "visa_access_id": 5
+visa on arrival "visa_access_id": 4
+visa_access_id:1 Visa Free
