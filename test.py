@@ -301,3 +301,7 @@ for passport in dataPI:
                         print(
                             f"{codes[passport]},{codes[destination]},{dataPI[passport][destination]},{dataHPI[passport][destination]}"
                         )
+
+# with open("HPI.csv", "w") as f:
+#     f.write(dataHPI)
+json.dump(dataHPI, open("HPI.json", "w"))
