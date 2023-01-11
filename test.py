@@ -1,7 +1,6 @@
 import requests
 import pandas as pd
 import json
-import pycountry
 import csv
 
 # codes = (
@@ -256,7 +255,7 @@ for region in codes:
     with open(f"HPI-{region}.json", "r") as f:
         data = json.load(f)
         dataHPI[region] = {}
-        for destination in data:
+        for destination in data["default"]:
             # if destination["pivot"]["is_visa_free"] == 1:
             #     if destination["pivot"]["visa_access_id"] not in [1, 4, 5]:
             #         print(destination["code"], destination["pivot"]["visa_access_id"])
