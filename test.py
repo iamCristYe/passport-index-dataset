@@ -233,22 +233,22 @@ x = [
     "ZW",
 ]
 
-for region in x:
-    result_raw = requests.get(
-        f"https://api.henleypassportindex.com/api/passports/{region}/countries",
-        headers={
-            "User-Agent": "Mozilla/5.0",
-            "Accept": "*/*",
-            "Accept-Language": "en-US,en;q=0.5",
-            "Accept-Encoding": "gzip, deflate, br",
-            "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
-            "Pragma": "no-cache",
-            "Cache-Control": "no-cache",
-        },
-    )
-    print(result_raw)
-    with open(f"HPI-{region}.json", "w") as file:
-        file.write(result_raw.text)
+# for region in x:
+#     result_raw = requests.get(
+#         f"https://api.henleypassportindex.com/api/passports/{region}/countries",
+#         headers={
+#             "User-Agent": "Mozilla/5.0",
+#             "Accept": "*/*",
+#             "Accept-Language": "en-US,en;q=0.5",
+#             "Accept-Encoding": "gzip, deflate, br",
+#             "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+#             "Pragma": "no-cache",
+#             "Cache-Control": "no-cache",
+#         },
+#     )
+#     print(result_raw)
+#     with open(f"HPI-{region}.json", "w") as file:
+#         file.write(result_raw.text)
 
 dataHPI = {}
 for region in codes:
@@ -285,23 +285,39 @@ with open("passport-index-matrix-iso2.csv") as file:
 # print(dataPI)
 
 # Compare the two datasets and print the differences:
-print(
-    "Passport,Destination,PI,HPI",
-)
-
+diff = "Passport,Destination,PI,HPI\n"
 for passport in dataPI:
     for destination in dataPI[passport]:
         if passport != "Passport" and destination != "Passport":
             if dataPI[passport][destination] != dataHPI[passport][destination]:
-                if not (
+                print(
+                    f"From {passport} to {destination}: PI is {dataPI[passport][destination]}, HPI is {dataHPI[passport][destination]}"
+                )
+                if (
                     dataHPI[passport][destination] == "visa free"
                     and dataPI[passport][destination].isnumeric()
                 ):
-                    if not dataPI[passport][destination] == "-1":
-                        print(
-                            f"{codes[passport]},{codes[destination]},{dataPI[passport][destination]},{dataHPI[passport][destination]}"
-                        )
+                    continue
+                if (
+                    dataHPI[passport][destination] == "visa on arrival"
+                    and dataPI[passport][destination].isnumeric()
+                ):
+                    continue
+                if (
+                    dataHPI[passport][destination] == "visa free"
+                    and dataPI[passport][destination] == "visa on arrival"
+                ):
+                    continue
+                if (
+                    dataHPI[passport][destination] == "visa required"
+                    and dataPI[passport][destination] == "e-visa"
+                ):
+                    continue
+                if not dataPI[passport][destination] == "-1":
+                    print("Different!")
+                    diff += f"{codes[passport]},{codes[destination]},{dataPI[passport][destination]},{dataHPI[passport][destination]}\n"
 
-# with open("HPI.csv", "w") as f:
-#     f.write(dataHPI)
+
+with open("diff.csv", "w") as f:
+    f.write(diff)
 json.dump(dataHPI, open("HPI.json", "w"))
