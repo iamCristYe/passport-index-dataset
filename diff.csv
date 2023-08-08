@@ -2,49 +2,41 @@ Passport,Destination,PI,HPI
 Afghanistan,Angola,visa on arrival,visa required
 Afghanistan,Azerbaijan,covid ban,visa required
 Afghanistan,Bolivia,visa on arrival,visa required
+Afghanistan,Djibouti,e-visa,visa on arrival
 Afghanistan,Guyana,visa on arrival,visa required
 Afghanistan,Nigeria,visa on arrival,visa required
-Afghanistan,Senegal,visa required,visa on arrival
 Afghanistan,Sierra Leone,visa on arrival,visa required
+Afghanistan,Sri Lanka,visa required,e-visa
 Afghanistan,Saint Vincent and the Grenadines,visa required,visa free
 Afghanistan,Suriname,90,visa required
-Afghanistan,Uganda,e-visa,visa on arrival
 Albania,Angola,visa on arrival,visa required
-Albania,Belarus,30,visa required
 Albania,China,visa required,visa free
+Albania,Djibouti,e-visa,visa on arrival
 Albania,Ecuador,e-visa,visa free
 Albania,Iran,e-visa,visa on arrival
 Albania,Jordan,visa on arrival,visa required
 Albania,Nigeria,visa on arrival,visa required
 Albania,Oman,e-visa,visa free
-Albania,Senegal,visa required,visa on arrival
 Albania,Sierra Leone,visa on arrival,visa required
-Albania,Suriname,90,visa required
-Albania,Uganda,e-visa,visa on arrival
 Algeria,Angola,visa on arrival,visa required
 Algeria,Azerbaijan,covid ban,visa required
-Algeria,Barbados,90,visa required
+Algeria,Djibouti,e-visa,visa on arrival
 Algeria,Ethiopia,e-visa,visa on arrival
 Algeria,Guyana,visa on arrival,visa required
 Algeria,Iran,e-visa,visa on arrival
 Algeria,Oman,e-visa,visa free
 Algeria,Palestine,visa free,visa required
 Algeria,Sierra Leone,visa on arrival,visa required
-Algeria,Suriname,90,visa required
-Algeria,Uganda,e-visa,visa on arrival
 Andorra,Angola,visa on arrival,visa required
 Andorra,Azerbaijan,covid ban,visa required
-Andorra,Barbados,90,visa required
+Andorra,Djibouti,e-visa,visa on arrival
 Andorra,Guyana,visa on arrival,visa required
 Andorra,Iran,e-visa,visa on arrival
 Andorra,Nigeria,visa on arrival,visa required
-Andorra,Papua New Guinea,e-visa,visa on arrival
 Andorra,Sierra Leone,visa on arrival,visa required
-Andorra,Suriname,90,visa required
-Andorra,Uganda,e-visa,visa on arrival
 Angola,Azerbaijan,covid ban,visa required
-Angola,Barbados,90,visa required
 Angola,Bolivia,visa on arrival,visa required
+Angola,Djibouti,e-visa,visa on arrival
 Angola,Ethiopia,e-visa,visa on arrival
 Angola,Guyana,visa on arrival,visa required
 Angola,Iran,e-visa,visa on arrival
@@ -52,21 +44,20 @@ Angola,Sierra Leone,visa on arrival,visa required
 Angola,Suriname,90,visa required
 Antigua and Barbuda,Angola,visa on arrival,visa required
 Antigua and Barbuda,Azerbaijan,covid ban,visa required
+Antigua and Barbuda,Djibouti,e-visa,visa on arrival
 Antigua and Barbuda,Iran,e-visa,visa on arrival
 Antigua and Barbuda,Nigeria,visa on arrival,visa required
 Antigua and Barbuda,Palestine,visa free,visa required
-Antigua and Barbuda,Senegal,visa required,visa on arrival
 Antigua and Barbuda,Turkey,visa on arrival,visa required
 Argentina,Angola,visa on arrival,visa required
-Argentina,Ethiopia,e-visa,visa on arrival
+Argentina,Djibouti,e-visa,visa on arrival
 Argentina,Gabon,e-visa,visa on arrival
 Argentina,Iran,e-visa,visa on arrival
 Argentina,Nigeria,visa on arrival,visa required
-Argentina,Papua New Guinea,e-visa,visa on arrival
 Argentina,Sierra Leone,visa on arrival,visa required
-Argentina,Uganda,e-visa,visa on arrival
 Armenia,Angola,visa on arrival,visa required
 Armenia,Azerbaijan,covid ban,visa required
+Armenia,Djibouti,e-visa,visa on arrival
 Armenia,Egypt,visa on arrival,visa required
 Armenia,Guyana,visa on arrival,visa required
 Armenia,Montenegro,visa required,visa free
@@ -75,42 +66,36 @@ Armenia,Oman,e-visa,visa free
 Armenia,Palestine,visa free,visa required
 Armenia,Qatar,visa on arrival,visa required
 Armenia,Sierra Leone,visa on arrival,visa required
-Armenia,Suriname,90,visa required
 Armenia,Turkey,visa on arrival,visa required
-Armenia,Uganda,e-visa,visa on arrival
 Australia,Angola,visa on arrival,visa required
-Australia,Ethiopia,e-visa,visa on arrival
+Australia,Djibouti,e-visa,visa on arrival
 Australia,Gabon,e-visa,visa on arrival
 Australia,Iran,e-visa,visa on arrival
 Australia,Myanmar,e-visa,visa on arrival
 Australia,Nigeria,visa on arrival,visa required
-Australia,Papua New Guinea,e-visa,visa on arrival
-Australia,Suriname,90,visa required
+Australia,South Korea,e-visa,visa free
 Australia,Turkey,visa on arrival,visa required
-Australia,Uganda,e-visa,visa on arrival
 Austria,Angola,visa on arrival,visa required
-Austria,Ethiopia,e-visa,visa on arrival
+Austria,Djibouti,e-visa,visa on arrival
 Austria,Gabon,e-visa,visa on arrival
 Austria,Iran,e-visa,visa on arrival
 Austria,Myanmar,e-visa,visa on arrival
 Austria,Nigeria,visa on arrival,visa required
-Austria,Papua New Guinea,e-visa,visa on arrival
-Austria,Suriname,90,visa required
-Austria,Uganda,e-visa,visa on arrival
+Austria,South Korea,e-visa,visa free
 Azerbaijan,Angola,visa on arrival,visa required
 Azerbaijan,Armenia,no admission,visa free
+Azerbaijan,Djibouti,e-visa,visa on arrival
 Azerbaijan,Egypt,visa on arrival,visa required
 Azerbaijan,Guyana,visa on arrival,visa required
 Azerbaijan,Nigeria,visa on arrival,visa required
 Azerbaijan,Oman,e-visa,visa free
 Azerbaijan,Palestine,visa free,visa required
-Azerbaijan,Senegal,visa required,visa on arrival
 Azerbaijan,Sierra Leone,visa on arrival,visa required
-Azerbaijan,Suriname,90,visa required
 Azerbaijan,Syria,visa required,visa on arrival
-Azerbaijan,Uganda,e-visa,visa on arrival
+Azerbaijan,United Arab Emirates,e-visa,visa free
 Bahamas,Angola,visa on arrival,visa required
 Bahamas,Azerbaijan,covid ban,visa required
+Bahamas,Djibouti,e-visa,visa on arrival
 Bahamas,Iran,e-visa,visa on arrival
 Bahamas,Nigeria,visa on arrival,visa required
 Bahamas,Turkey,visa on arrival,visa required
@@ -118,228 +103,191 @@ Bahamas,United States,visa free,visa required
 Bahrain,Albania,visa required,visa free
 Bahrain,Angola,visa on arrival,visa required
 Bahrain,Armenia,e-visa,visa on arrival
+Bahrain,Djibouti,e-visa,visa on arrival
 Bahrain,Gabon,e-visa,visa on arrival
 Bahrain,Guyana,visa on arrival,visa required
 Bahrain,Iran,e-visa,visa on arrival
 Bahrain,Iraq,visa on arrival,visa required
 Bahrain,Nigeria,visa on arrival,visa required
 Bahrain,Palestine,visa free,visa required
-Bahrain,Suriname,90,visa required
 Bahrain,Turkey,visa on arrival,visa required
-Bahrain,Uganda,e-visa,visa on arrival
 Bahrain,Zambia,90,visa required
 Bangladesh,Angola,visa on arrival,visa required
 Bangladesh,Azerbaijan,covid ban,visa required
-Bangladesh,Cambodia,visa on arrival,visa required
+Bangladesh,Djibouti,e-visa,visa on arrival
 Bangladesh,Guyana,visa on arrival,visa required
 Bangladesh,Iraq,no admission,visa required
 Bangladesh,Lesotho,visa required,visa free
 Bangladesh,Mozambique,e-visa,visa on arrival
 Bangladesh,Nigeria,visa on arrival,visa required
-Bangladesh,Senegal,visa required,visa on arrival
 Bangladesh,Suriname,90,visa required
-Bangladesh,Uganda,e-visa,visa on arrival
 Barbados,Angola,visa on arrival,visa required
 Barbados,Azerbaijan,covid ban,visa required
+Barbados,Djibouti,e-visa,visa on arrival
 Barbados,Iran,e-visa,visa on arrival
 Barbados,Nigeria,visa on arrival,visa required
 Barbados,Turkey,visa on arrival,visa required
 Belarus,Angola,visa on arrival,visa required
 Belarus,Bangladesh,visa on arrival,visa required
+Belarus,Djibouti,e-visa,visa on arrival
 Belarus,Egypt,visa on arrival,visa required
 Belarus,Guyana,visa on arrival,visa required
 Belarus,Iran,e-visa,visa on arrival
 Belarus,Nigeria,visa on arrival,visa required
 Belarus,Oman,e-visa,visa free
-Belarus,Senegal,visa required,visa on arrival
 Belarus,Sierra Leone,visa on arrival,visa required
-Belarus,Suriname,90,visa required
 Belarus,Syria,visa required,visa on arrival
 Belarus,Tunisia,visa on arrival,visa required
-Belarus,Uganda,e-visa,visa on arrival
 Belgium,Angola,visa on arrival,visa required
-Belgium,Ethiopia,e-visa,visa on arrival
+Belgium,Djibouti,e-visa,visa on arrival
 Belgium,Gabon,e-visa,visa on arrival
 Belgium,Iran,e-visa,visa on arrival
+Belgium,Myanmar,e-visa,visa on arrival
 Belgium,Nigeria,visa on arrival,visa required
-Belgium,Papua New Guinea,e-visa,visa on arrival
-Belgium,Suriname,90,visa required
-Belgium,Uganda,e-visa,visa on arrival
+Belgium,South Korea,e-visa,visa free
 Belize,Angola,visa on arrival,visa required
 Belize,Armenia,e-visa,visa on arrival
 Belize,Azerbaijan,covid ban,visa required
+Belize,Djibouti,e-visa,visa on arrival
 Belize,Iran,e-visa,visa on arrival
 Belize,Liberia,visa required,visa free
 Belize,Nigeria,visa on arrival,visa required
-Belize,Senegal,visa required,visa on arrival
 Benin,Angola,visa on arrival,visa required
 Benin,Azerbaijan,covid ban,visa required
-Benin,Barbados,90,visa required
 Benin,Cuba,visa required,visa free
+Benin,Djibouti,e-visa,visa on arrival
 Benin,Ethiopia,e-visa,visa on arrival
 Benin,Guyana,visa on arrival,visa required
 Benin,Iran,e-visa,visa on arrival
-Benin,Suriname,90,visa required
-Benin,Uganda,e-visa,visa on arrival
 Bhutan,Angola,visa on arrival,visa required
 Bhutan,Armenia,e-visa,visa on arrival
 Bhutan,Azerbaijan,covid ban,visa required
-Bhutan,Barbados,90,visa required
 Bhutan,Bolivia,visa on arrival,visa required
+Bhutan,Djibouti,e-visa,visa on arrival
 Bhutan,Guyana,visa on arrival,visa required
 Bhutan,India,visa free,visa required
 Bhutan,Iran,e-visa,visa on arrival
 Bhutan,Nigeria,visa on arrival,visa required
 Bhutan,Oman,e-visa,visa free
 Bhutan,Palestine,visa free,visa required
-Bhutan,Senegal,visa required,visa on arrival
 Bhutan,Sierra Leone,visa on arrival,visa required
-Bhutan,Suriname,90,visa required
-Bhutan,Uganda,e-visa,visa on arrival
 Bolivia,Angola,visa on arrival,visa required
-Bolivia,Antigua and Barbuda,90,visa required
 Bolivia,Armenia,e-visa,visa on arrival
 Bolivia,Azerbaijan,covid ban,visa required
-Bolivia,Barbados,90,visa required
+Bolivia,Djibouti,e-visa,visa on arrival
 Bolivia,Nigeria,visa on arrival,visa required
 Bolivia,Palestine,visa free,visa required
-Bolivia,Senegal,visa required,visa on arrival
-Bolivia,Serbia,visa required,visa free
-Bolivia,Suriname,90,visa required
-Bolivia,Uganda,e-visa,visa on arrival
 Bosnia and Herzegovina,Angola,visa on arrival,visa required
 Bosnia and Herzegovina,Azerbaijan,covid ban,visa required
 Bosnia and Herzegovina,Bahamas,e-visa,visa free
+Bosnia and Herzegovina,Djibouti,e-visa,visa on arrival
 Bosnia and Herzegovina,Guyana,visa on arrival,visa required
 Bosnia and Herzegovina,Iran,e-visa,visa on arrival
 Bosnia and Herzegovina,Nigeria,visa on arrival,visa required
 Bosnia and Herzegovina,Oman,e-visa,visa free
 Bosnia and Herzegovina,Palestine,visa free,visa required
-Bosnia and Herzegovina,Senegal,visa required,visa on arrival
 Bosnia and Herzegovina,Sierra Leone,visa on arrival,visa required
-Bosnia and Herzegovina,Suriname,90,visa required
-Bosnia and Herzegovina,Uganda,e-visa,visa on arrival
 Botswana,Azerbaijan,covid ban,visa required
 Botswana,Brazil,90,visa required
+Botswana,Djibouti,e-visa,visa on arrival
 Botswana,Ethiopia,e-visa,visa on arrival
 Botswana,Iran,e-visa,visa on arrival
 Botswana,Palestine,visa required,visa free
 Botswana,Qatar,visa on arrival,visa required
 Botswana,South Sudan,e-visa,visa on arrival
-Botswana,Suriname,90,visa required
 Brazil,Angola,visa on arrival,visa required
-Brazil,Ethiopia,e-visa,visa on arrival
+Brazil,Djibouti,e-visa,visa on arrival
 Brazil,Gabon,e-visa,visa on arrival
 Brazil,Iran,e-visa,visa on arrival
 Brazil,Nigeria,visa on arrival,visa required
-Brazil,Papua New Guinea,e-visa,visa on arrival
-Brazil,Uganda,e-visa,visa on arrival
 Brunei,Angola,visa on arrival,visa required
 Brunei,Armenia,e-visa,visa on arrival
 Brunei,China,covid ban,visa free
+Brunei,Djibouti,e-visa,visa on arrival
 Brunei,Guyana,visa on arrival,visa required
 Brunei,Iran,e-visa,visa on arrival
 Brunei,Nigeria,visa on arrival,visa required
 Brunei,Palestine,visa free,visa required
-Brunei,Papua New Guinea,e-visa,visa on arrival
-Brunei,Suriname,90,visa required
-Brunei,Uganda,e-visa,visa on arrival
 Bulgaria,Angola,visa on arrival,visa required
+Bulgaria,Djibouti,e-visa,visa on arrival
 Bulgaria,Gabon,e-visa,visa on arrival
 Bulgaria,Guyana,visa on arrival,visa required
 Bulgaria,Iran,e-visa,visa on arrival
+Bulgaria,Myanmar,e-visa,visa on arrival
 Bulgaria,Nigeria,visa on arrival,visa required
-Bulgaria,Papua New Guinea,e-visa,visa on arrival
-Bulgaria,Suriname,90,visa required
-Bulgaria,Uganda,e-visa,visa on arrival
 Burkina Faso,Angola,visa on arrival,visa required
 Burkina Faso,Azerbaijan,covid ban,visa required
+Burkina Faso,Djibouti,e-visa,visa on arrival
 Burkina Faso,Ethiopia,e-visa,visa on arrival
 Burkina Faso,Guyana,visa on arrival,visa required
 Burkina Faso,Iran,e-visa,visa on arrival
-Burkina Faso,Morocco,90,visa required
-Burkina Faso,Suriname,90,visa required
-Burkina Faso,Uganda,e-visa,visa on arrival
 Burundi,Angola,visa on arrival,visa required
 Burundi,Azerbaijan,covid ban,visa required
+Burundi,Djibouti,e-visa,visa on arrival
 Burundi,Ethiopia,e-visa,visa on arrival
 Burundi,Guyana,visa on arrival,visa required
 Burundi,Iran,e-visa,visa on arrival
 Burundi,Madagascar,visa required,visa on arrival
 Burundi,Sierra Leone,visa on arrival,visa required
-Burundi,Suriname,90,visa required
 Cambodia,Angola,visa on arrival,visa required
 Cambodia,Armenia,e-visa,visa on arrival
 Cambodia,Azerbaijan,covid ban,visa required
-Cambodia,Barbados,90,visa required
 Cambodia,Bolivia,visa on arrival,visa required
+Cambodia,Djibouti,e-visa,visa on arrival
 Cambodia,Guyana,visa on arrival,visa required
 Cambodia,Iran,e-visa,visa on arrival
 Cambodia,Nigeria,visa on arrival,visa required
 Cambodia,Palestine,visa free,visa required
-Cambodia,Senegal,visa required,visa on arrival
-Cambodia,Suriname,90,visa required
-Cambodia,Uganda,e-visa,visa on arrival
 Cameroon,Angola,visa on arrival,visa required
 Cameroon,Azerbaijan,covid ban,visa required
+Cameroon,Djibouti,e-visa,visa on arrival
 Cameroon,Ethiopia,e-visa,visa on arrival
 Cameroon,Guyana,visa on arrival,visa required
 Cameroon,Iran,e-visa,visa on arrival
 Cameroon,Lesotho,visa required,visa free
+Cameroon,Sri Lanka,visa required,e-visa
 Cameroon,Suriname,90,visa required
-Cameroon,Uganda,e-visa,visa on arrival
 Canada,Angola,visa on arrival,visa required
-Canada,Ethiopia,e-visa,visa on arrival
+Canada,Djibouti,e-visa,visa on arrival
 Canada,Gabon,e-visa,visa on arrival
+Canada,Myanmar,e-visa,visa on arrival
 Canada,Nigeria,visa on arrival,visa required
-Canada,Papua New Guinea,e-visa,visa on arrival
-Canada,Suriname,90,visa required
+Canada,South Korea,e-visa,visa free
 Canada,Turkey,visa on arrival,visa required
-Canada,Uganda,e-visa,visa on arrival
 Cape Verde,Azerbaijan,covid ban,visa required
-Cape Verde,Barbados,90,visa required
-Cape Verde,Ethiopia,e-visa,visa on arrival
+Cape Verde,Djibouti,e-visa,visa on arrival
 Cape Verde,Guyana,visa on arrival,visa required
 Cape Verde,Iran,e-visa,visa on arrival
 Cape Verde,Palestine,visa free,visa required
-Cape Verde,Suriname,90,visa required
-Cape Verde,Uganda,e-visa,visa on arrival
 Central African Republic,Angola,visa on arrival,visa required
 Central African Republic,Azerbaijan,covid ban,visa required
-Central African Republic,Barbados,90,visa required
+Central African Republic,Djibouti,e-visa,visa on arrival
 Central African Republic,Ethiopia,e-visa,visa on arrival
 Central African Republic,Gabon,e-visa,visa free
 Central African Republic,Guyana,visa on arrival,visa required
 Central African Republic,Iran,e-visa,visa on arrival
 Central African Republic,Israel,visa required,visa free
 Central African Republic,Sierra Leone,visa on arrival,visa required
-Central African Republic,Suriname,90,visa required
-Central African Republic,Uganda,e-visa,visa on arrival
 Chad,Angola,visa on arrival,visa required
 Chad,Azerbaijan,covid ban,visa required
-Chad,Barbados,90,visa required
 Chad,Bolivia,visa on arrival,visa required
+Chad,Djibouti,e-visa,visa on arrival
 Chad,Ethiopia,e-visa,visa on arrival
 Chad,Gabon,e-visa,visa free
 Chad,Guyana,visa on arrival,visa required
 Chad,Iran,e-visa,visa on arrival
 Chad,Sierra Leone,visa on arrival,visa required
-Chad,Suriname,90,visa required
-Chad,Uganda,e-visa,visa on arrival
 Chile,Angola,visa on arrival,visa required
+Chile,Djibouti,e-visa,visa on arrival
 Chile,Iran,e-visa,visa on arrival
 Chile,Nigeria,visa on arrival,visa required
-Chile,Papua New Guinea,e-visa,visa on arrival
-Chile,Senegal,visa required,visa on arrival
 Chile,Sierra Leone,visa on arrival,visa required
 Chile,South Korea,e-visa,visa free
-Chile,Suriname,90,visa required
-Chile,Uganda,e-visa,visa on arrival
 China,Angola,visa on arrival,visa required
 China,Benin,e-visa,visa free
 China,Costa Rica,visa required,visa free
+China,Djibouti,e-visa,visa on arrival
 China,Egypt,e-visa,visa free
-China,Ethiopia,e-visa,visa on arrival
 China,Gabon,e-visa,visa on arrival
 China,Guinea,e-visa,visa free
 China,Guyana,visa on arrival,visa required
@@ -348,312 +296,271 @@ China,Myanmar,e-visa,visa on arrival
 China,Nigeria,visa on arrival,visa required
 China,Palestine,visa free,visa required
 China,Tunisia,visa required,visa free
-China,Uganda,e-visa,visa on arrival
 China,Zambia,90,visa required
 China,Zimbabwe,e-visa,visa on arrival
 Colombia,Angola,visa on arrival,visa required
 Colombia,Armenia,e-visa,visa on arrival
+Colombia,Djibouti,e-visa,visa on arrival
 Colombia,Jordan,visa on arrival,visa required
 Colombia,Nigeria,visa on arrival,visa required
-Colombia,Senegal,visa required,visa on arrival
 Colombia,Sierra Leone,visa on arrival,visa required
-Colombia,Suriname,90,visa required
-Colombia,Uganda,e-visa,visa on arrival
 Comoros,Angola,visa on arrival,visa required
 Comoros,Azerbaijan,covid ban,visa required
 Comoros,Barbados,90,visa required
+Comoros,Djibouti,e-visa,visa on arrival
 Comoros,Ethiopia,e-visa,visa on arrival
 Comoros,Guyana,visa on arrival,visa required
 Comoros,Iran,e-visa,visa on arrival
 Comoros,Madagascar,visa required,visa on arrival
 Comoros,Nigeria,visa on arrival,visa required
 Comoros,Sierra Leone,visa on arrival,visa required
-Comoros,Suriname,90,visa required
 Congo,Angola,visa on arrival,visa required
 Congo,Azerbaijan,covid ban,visa required
 Congo,Barbados,90,visa required
+Congo,Djibouti,e-visa,visa on arrival
 Congo,Ecuador,e-visa,visa free
 Congo,Ethiopia,e-visa,visa on arrival
 Congo,Guyana,visa on arrival,visa required
 Congo,Iran,e-visa,visa on arrival
 Congo,Morocco,e-visa,visa free
 Congo,Sierra Leone,visa on arrival,visa required
-Congo,Suriname,90,visa required
-Congo,Uganda,e-visa,visa on arrival
 DR Congo,Angola,visa on arrival,visa required
 DR Congo,Azerbaijan,covid ban,visa required
-DR Congo,Barbados,90,visa required
 DR Congo,Bolivia,visa on arrival,visa required
+DR Congo,Djibouti,e-visa,visa on arrival
 DR Congo,Ethiopia,e-visa,visa on arrival
 DR Congo,Guyana,visa on arrival,visa required
 DR Congo,Iran,e-visa,visa on arrival
 DR Congo,Sierra Leone,visa on arrival,visa required
-DR Congo,Suriname,90,visa required
-DR Congo,Uganda,e-visa,visa on arrival
 Costa Rica,Angola,visa on arrival,visa required
 Costa Rica,Armenia,e-visa,visa on arrival
+Costa Rica,Djibouti,e-visa,visa on arrival
 Costa Rica,Iran,e-visa,visa on arrival
 Costa Rica,Nigeria,visa on arrival,visa required
 Costa Rica,Oman,e-visa,visa free
 Costa Rica,Sierra Leone,visa on arrival,visa required
-Costa Rica,Suriname,90,visa required
-Costa Rica,Uganda,e-visa,visa on arrival
 Ivory Coast,Angola,visa on arrival,visa required
 Ivory Coast,Azerbaijan,covid ban,visa required
-Ivory Coast,Barbados,90,visa required
+Ivory Coast,Djibouti,e-visa,visa on arrival
 Ivory Coast,Ecuador,e-visa,visa free
 Ivory Coast,Ethiopia,e-visa,visa on arrival
 Ivory Coast,Guyana,visa on arrival,visa required
 Ivory Coast,Iran,e-visa,visa on arrival
-Ivory Coast,Sri Lanka,visa on arrival,visa required
-Ivory Coast,Suriname,90,visa required
-Ivory Coast,Uganda,e-visa,visa on arrival
+Ivory Coast,Sri Lanka,visa on arrival,e-visa
 Croatia,Angola,visa on arrival,visa required
+Croatia,Djibouti,e-visa,visa on arrival
 Croatia,Gabon,e-visa,visa on arrival
 Croatia,Guyana,visa on arrival,visa required
 Croatia,Iran,e-visa,visa on arrival
+Croatia,Myanmar,e-visa,visa on arrival
 Croatia,Nigeria,visa on arrival,visa required
-Croatia,Papua New Guinea,e-visa,visa on arrival
-Croatia,Suriname,90,visa required
-Croatia,Uganda,e-visa,visa on arrival
 Croatia,United States,e-visa,visa free
 Cuba,Angola,visa on arrival,visa required
 Cuba,Armenia,e-visa,visa on arrival
+Cuba,Djibouti,e-visa,visa on arrival
 Cuba,Fiji,120,visa required
 Cuba,Iran,e-visa,visa on arrival
-Cuba,Nicaragua,90,visa required
 Cuba,Nigeria,visa on arrival,visa required
 Cuba,North Macedonia,visa required,visa free
 Cuba,Oman,e-visa,visa free
 Cuba,Palestine,visa free,visa required
-Cuba,Senegal,visa required,visa on arrival
+Cuba,Serbia,90,visa required
 Cuba,Sierra Leone,visa on arrival,visa required
 Cuba,Suriname,90,visa required
-Cuba,Uganda,e-visa,visa on arrival
 Cyprus,Angola,visa on arrival,visa required
+Cyprus,Djibouti,e-visa,visa on arrival
 Cyprus,Gabon,e-visa,visa on arrival
 Cyprus,Guyana,visa on arrival,visa required
 Cyprus,Iran,e-visa,visa on arrival
 Cyprus,Lesotho,e-visa,visa free
+Cyprus,Myanmar,e-visa,visa on arrival
 Cyprus,Nigeria,visa on arrival,visa required
-Cyprus,Papua New Guinea,e-visa,visa on arrival
-Cyprus,Suriname,90,visa required
 Cyprus,Turkey,visa on arrival,visa required
 Czech Republic,Angola,visa on arrival,visa required
-Czech Republic,Ethiopia,e-visa,visa on arrival
+Czech Republic,Djibouti,e-visa,visa on arrival
 Czech Republic,Gabon,e-visa,visa on arrival
 Czech Republic,Guyana,visa on arrival,visa required
 Czech Republic,Iran,e-visa,visa on arrival
 Czech Republic,Myanmar,e-visa,visa on arrival
 Czech Republic,Nigeria,visa on arrival,visa required
-Czech Republic,Papua New Guinea,e-visa,visa on arrival
-Czech Republic,Suriname,90,visa required
-Czech Republic,Uganda,e-visa,visa on arrival
 Denmark,Angola,visa on arrival,visa required
-Denmark,Ethiopia,e-visa,visa on arrival
+Denmark,Djibouti,e-visa,visa on arrival
 Denmark,Gabon,e-visa,visa on arrival
 Denmark,Iran,e-visa,visa on arrival
+Denmark,Myanmar,e-visa,visa on arrival
 Denmark,Nigeria,visa on arrival,visa required
-Denmark,Papua New Guinea,e-visa,visa on arrival
-Denmark,Suriname,90,visa required
-Denmark,Uganda,e-visa,visa on arrival
+Denmark,South Korea,e-visa,visa free
 Djibouti,Angola,visa on arrival,visa required
 Djibouti,Azerbaijan,covid ban,visa required
-Djibouti,Barbados,90,visa required
 Djibouti,Guyana,visa on arrival,visa required
 Djibouti,Iran,e-visa,visa on arrival
+Djibouti,Kenya,e-visa,visa free
 Djibouti,Sierra Leone,visa on arrival,visa required
-Djibouti,Suriname,90,visa required
-Djibouti,Uganda,e-visa,visa on arrival
 Dominica,Angola,visa on arrival,visa required
 Dominica,Argentina,visa required,visa free
 Dominica,Azerbaijan,covid ban,visa required
 Dominica,Cape Verde,visa free,visa on arrival
+Dominica,Djibouti,e-visa,visa on arrival
 Dominica,Iran,e-visa,visa on arrival
 Dominica,Nigeria,visa on arrival,visa required
-Dominica,Senegal,visa required,visa on arrival
 Dominica,Turkey,visa on arrival,visa required
-Dominica,Uganda,e-visa,visa on arrival
+Dominica,United Kingdom,180,visa required
 Dominican Republic,Angola,visa on arrival,visa required
 Dominican Republic,Azerbaijan,covid ban,visa required
+Dominican Republic,Belize,30,visa required
 Dominican Republic,Cuba,visa required,visa free
+Dominican Republic,Djibouti,e-visa,visa on arrival
 Dominican Republic,Guatemala,visa required,visa free
 Dominican Republic,Iran,e-visa,visa on arrival
 Dominican Republic,Nigeria,visa on arrival,visa required
 Dominican Republic,Sierra Leone,visa on arrival,visa required
 Dominican Republic,Suriname,90,visa required
-Dominican Republic,Tajikistan,30,visa required
 Dominican Republic,Tunisia,7,visa required
 Dominican Republic,Turkey,visa on arrival,visa required
-Dominican Republic,Uganda,e-visa,visa on arrival
 Ecuador,Angola,visa on arrival,visa required
 Ecuador,Antigua and Barbuda,90,visa required
-Ecuador,Barbados,90,visa required
-Ecuador,Grenada,90,visa required
+Ecuador,Belize,30,visa required
+Ecuador,Djibouti,e-visa,visa on arrival
 Ecuador,Guatemala,visa required,visa free
 Ecuador,Iran,e-visa,visa on arrival
-Ecuador,Mexico,visa required,visa free
-Ecuador,Mongolia,30,visa required
 Ecuador,Mozambique,e-visa,visa on arrival
 Ecuador,Nigeria,visa on arrival,visa required
-Ecuador,Papua New Guinea,e-visa,visa on arrival
-Ecuador,Senegal,visa required,visa on arrival
 Ecuador,Sierra Leone,visa on arrival,visa required
 Ecuador,Solomon Islands,visa required,visa on arrival
-Ecuador,Suriname,90,visa required
 Ecuador,Tajikistan,30,visa required
-Ecuador,Uganda,e-visa,visa on arrival
 Ecuador,Venezuela,90,visa required
+Egypt,Albania,90,visa required
 Egypt,Angola,visa on arrival,visa required
 Egypt,Azerbaijan,covid ban,visa required
-Egypt,Barbados,90,visa required
+Egypt,Djibouti,e-visa,visa on arrival
 Egypt,Ecuador,e-visa,visa free
 Egypt,Ethiopia,e-visa,visa on arrival
 Egypt,Guyana,visa on arrival,visa required
 Egypt,Oman,e-visa,visa free
 Egypt,Palestine,visa free,visa required
 Egypt,Sierra Leone,visa on arrival,visa required
-Egypt,Sri Lanka,visa on arrival,visa required
+Egypt,Sri Lanka,visa on arrival,e-visa
 Egypt,Suriname,90,visa required
-Egypt,Uganda,e-visa,visa on arrival
 El Salvador,Angola,visa on arrival,visa required
 El Salvador,Armenia,e-visa,visa on arrival
 El Salvador,Azerbaijan,covid ban,visa required
-El Salvador,Grenada,90,visa required
+El Salvador,Djibouti,e-visa,visa on arrival
 El Salvador,Guyana,visa on arrival,visa required
 El Salvador,Iran,e-visa,visa on arrival
 El Salvador,Nigeria,visa on arrival,visa required
 El Salvador,Oman,e-visa,visa free
 El Salvador,Sierra Leone,visa on arrival,visa required
-El Salvador,Suriname,90,visa required
-El Salvador,Uganda,e-visa,visa on arrival
 Equatorial Guinea,Angola,visa on arrival,visa required
 Equatorial Guinea,Azerbaijan,covid ban,visa required
-Equatorial Guinea,Barbados,90,visa required
+Equatorial Guinea,Djibouti,e-visa,visa on arrival
 Equatorial Guinea,Ethiopia,e-visa,visa on arrival
 Equatorial Guinea,Guyana,visa on arrival,visa required
 Equatorial Guinea,Iran,e-visa,visa on arrival
 Equatorial Guinea,Palestine,visa free,visa required
 Equatorial Guinea,Sierra Leone,visa on arrival,visa required
-Equatorial Guinea,Suriname,90,visa required
-Equatorial Guinea,Uganda,e-visa,visa on arrival
-Equatorial Guinea,Uzbekistan,e-visa,visa free
 Eritrea,Angola,visa on arrival,visa required
 Eritrea,Azerbaijan,covid ban,visa required
+Eritrea,Djibouti,e-visa,visa on arrival
 Eritrea,Ethiopia,e-visa,visa on arrival
 Eritrea,Guyana,visa on arrival,visa required
 Eritrea,Iran,e-visa,visa on arrival
 Eritrea,Kenya,e-visa,visa free
 Eritrea,Mozambique,e-visa,visa on arrival
-Eritrea,Senegal,visa required,visa on arrival
 Eritrea,Sierra Leone,visa on arrival,visa required
-Eritrea,South Sudan,e-visa,visa on arrival
 Eritrea,Suriname,90,visa required
 Estonia,Angola,visa on arrival,visa required
+Estonia,Djibouti,e-visa,visa on arrival
 Estonia,Gabon,e-visa,visa on arrival
 Estonia,Guyana,visa on arrival,visa required
 Estonia,Iran,e-visa,visa on arrival
+Estonia,Myanmar,e-visa,visa on arrival
 Estonia,Nigeria,visa on arrival,visa required
-Estonia,Papua New Guinea,e-visa,visa on arrival
-Estonia,Suriname,90,visa required
-Estonia,Uganda,e-visa,visa on arrival
 Swaziland,Angola,visa on arrival,visa required
 Swaziland,Azerbaijan,covid ban,visa required
+Swaziland,Djibouti,e-visa,visa on arrival
 Swaziland,Ethiopia,e-visa,visa on arrival
 Swaziland,Iran,e-visa,visa on arrival
 Swaziland,Kuwait,visa required,visa on arrival
-Swaziland,Suriname,90,visa required
-Swaziland,Taiwan,90,visa required
 Ethiopia,Angola,visa on arrival,visa required
 Ethiopia,Azerbaijan,covid ban,visa required
+Ethiopia,Djibouti,e-visa,visa on arrival
 Ethiopia,Guyana,visa on arrival,visa required
 Ethiopia,Iran,e-visa,visa on arrival
 Ethiopia,Sierra Leone,visa on arrival,visa required
 Ethiopia,South Sudan,e-visa,visa on arrival
-Ethiopia,Suriname,90,visa required
-Ethiopia,Uganda,e-visa,visa on arrival
 Fiji,Angola,visa on arrival,visa required
 Fiji,Armenia,e-visa,visa on arrival
 Fiji,Azerbaijan,covid ban,visa required
+Fiji,Djibouti,e-visa,visa on arrival
+Fiji,Georgia,e-visa,visa free
 Fiji,Guyana,visa on arrival,visa required
 Fiji,Iran,e-visa,visa on arrival
 Fiji,Lesotho,visa free,visa required
 Fiji,Nigeria,visa on arrival,visa required
-Fiji,Papua New Guinea,e-visa,visa on arrival
-Fiji,Suriname,90,visa required
 Finland,Angola,visa on arrival,visa required
-Finland,Ethiopia,e-visa,visa on arrival
+Finland,Djibouti,e-visa,visa on arrival
 Finland,Gabon,e-visa,visa on arrival
 Finland,Iran,e-visa,visa on arrival
+Finland,Myanmar,e-visa,visa on arrival
 Finland,Nigeria,visa on arrival,visa required
-Finland,Papua New Guinea,e-visa,visa on arrival
-Finland,Suriname,90,visa required
-Finland,Uganda,e-visa,visa on arrival
+Finland,South Korea,e-visa,visa free
 France,Angola,visa on arrival,visa required
-France,Belarus,30,visa required
-France,Ethiopia,e-visa,visa on arrival
+France,Djibouti,e-visa,visa on arrival
 France,Gabon,e-visa,visa on arrival
 France,Iran,e-visa,visa on arrival
+France,Myanmar,e-visa,visa on arrival
 France,Nigeria,visa on arrival,visa required
-France,Papua New Guinea,e-visa,visa on arrival
-France,Suriname,90,visa required
-France,Uganda,e-visa,visa on arrival
+France,South Korea,e-visa,visa free
 Gabon,Angola,visa on arrival,visa required
 Gabon,Azerbaijan,covid ban,visa required
-Gabon,Barbados,90,visa required
+Gabon,Djibouti,e-visa,visa on arrival
 Gabon,Ethiopia,e-visa,visa on arrival
 Gabon,Guyana,visa on arrival,visa required
 Gabon,Iran,e-visa,visa on arrival
 Gabon,Sierra Leone,visa on arrival,visa required
-Gabon,Suriname,90,visa required
-Gabon,Uganda,e-visa,visa on arrival
 Gambia,Angola,visa on arrival,visa required
 Gambia,Azerbaijan,covid ban,visa required
+Gambia,Djibouti,e-visa,visa on arrival
 Gambia,Ethiopia,e-visa,visa on arrival
 Gambia,Guyana,visa on arrival,visa required
 Gambia,Iran,e-visa,visa on arrival
-Gambia,Suriname,90,visa required
 Georgia,Angola,visa on arrival,visa required
+Georgia,Djibouti,e-visa,visa on arrival
 Georgia,Fiji,120,visa required
 Georgia,Guyana,visa on arrival,visa required
 Georgia,Nigeria,visa on arrival,visa required
 Georgia,North Macedonia,90,visa required
+Georgia,Paraguay,visa required,visa free
+Georgia,Russia,visa required,visa free
 Georgia,Saint Kitts and Nevis,e-visa,visa free
-Georgia,Senegal,visa required,visa on arrival
 Georgia,Sierra Leone,visa on arrival,visa required
-Georgia,Suriname,90,visa required
 Georgia,Syria,visa required,visa on arrival
-Georgia,Uganda,e-visa,visa on arrival
-Georgia,United Arab Emirates,90,visa required
 Germany,Angola,visa on arrival,visa required
-Germany,Ethiopia,e-visa,visa on arrival
+Germany,Djibouti,e-visa,visa on arrival
 Germany,Gabon,e-visa,visa on arrival
 Germany,Iran,e-visa,visa on arrival
 Germany,Myanmar,e-visa,visa on arrival
 Germany,Nigeria,visa on arrival,visa required
-Germany,Papua New Guinea,e-visa,visa on arrival
-Germany,Suriname,90,visa required
-Germany,Uganda,e-visa,visa on arrival
+Germany,South Korea,e-visa,visa free
 Ghana,Angola,visa on arrival,visa required
 Ghana,Azerbaijan,covid ban,visa required
+Ghana,Djibouti,e-visa,visa on arrival
 Ghana,Ethiopia,e-visa,visa on arrival
 Ghana,Iran,e-visa,visa on arrival
 Ghana,Lebanon,visa on arrival,visa required
 Ghana,Lesotho,visa free,visa required
-Ghana,South Africa,visa required,visa free
-Ghana,Sri Lanka,visa on arrival,visa required
+Ghana,Sri Lanka,visa on arrival,e-visa
 Ghana,Suriname,90,visa required
 Greece,Angola,visa on arrival,visa required
-Greece,Ethiopia,e-visa,visa on arrival
+Greece,Djibouti,e-visa,visa on arrival
 Greece,Gabon,e-visa,visa on arrival
 Greece,Iran,e-visa,visa on arrival
+Greece,Myanmar,e-visa,visa on arrival
 Greece,Nigeria,visa on arrival,visa required
-Greece,Papua New Guinea,e-visa,visa on arrival
-Greece,Suriname,90,visa required
-Greece,Uganda,e-visa,visa on arrival
 Grenada,Angola,visa on arrival,visa required
 Grenada,Armenia,e-visa,visa on arrival
 Grenada,Azerbaijan,covid ban,visa required
+Grenada,Djibouti,e-visa,visa on arrival
 Grenada,Iran,e-visa,visa on arrival
 Grenada,Nigeria,visa on arrival,visa required
 Grenada,Turkey,visa on arrival,visa required
@@ -661,100 +568,84 @@ Guatemala,Angola,visa on arrival,visa required
 Guatemala,Armenia,e-visa,visa on arrival
 Guatemala,Azerbaijan,visa on arrival,visa required
 Guatemala,Bangladesh,visa on arrival,visa required
+Guatemala,Djibouti,e-visa,visa on arrival
 Guatemala,Guyana,visa on arrival,visa required
+Guatemala,Indonesia,visa required,visa on arrival
 Guatemala,Iran,e-visa,visa on arrival
 Guatemala,Nigeria,visa on arrival,visa required
 Guatemala,Oman,e-visa,visa free
 Guatemala,Sierra Leone,visa on arrival,visa required
-Guatemala,Suriname,90,visa required
-Guatemala,Uganda,e-visa,visa on arrival
 Guinea,Angola,visa on arrival,visa required
 Guinea,Azerbaijan,covid ban,visa required
-Guinea,Barbados,90,visa required
+Guinea,Djibouti,e-visa,visa on arrival
 Guinea,Ethiopia,e-visa,visa on arrival
 Guinea,Guyana,visa on arrival,visa required
 Guinea,Iran,e-visa,visa on arrival
 Guinea,Morocco,e-visa,visa free
-Guinea,Suriname,90,visa required
-Guinea,Uganda,e-visa,visa on arrival
 Guinea-Bissau,Angola,visa on arrival,visa required
 Guinea-Bissau,Azerbaijan,covid ban,visa required
-Guinea-Bissau,Barbados,90,visa required
+Guinea-Bissau,Djibouti,e-visa,visa on arrival
 Guinea-Bissau,Ethiopia,e-visa,visa on arrival
 Guinea-Bissau,Guyana,visa on arrival,visa required
 Guinea-Bissau,Iran,e-visa,visa on arrival
 Guinea-Bissau,Mozambique,e-visa,visa on arrival
-Guinea-Bissau,Suriname,90,visa required
-Guinea-Bissau,Uganda,e-visa,visa on arrival
+Guyana,Albania,e-visa,visa free
 Guyana,Angola,visa on arrival,visa required
 Guyana,Armenia,e-visa,visa on arrival
 Guyana,Azerbaijan,covid ban,visa required
-Guyana,Ghana,90,visa required
+Guyana,Djibouti,e-visa,visa on arrival
 Guyana,Iran,e-visa,visa on arrival
 Guyana,Nigeria,visa on arrival,visa required
 Guyana,Palestine,visa free,visa required
-Guyana,Senegal,visa required,visa on arrival
-Guyana,Uganda,e-visa,visa on arrival
 Haiti,Angola,visa on arrival,visa required
 Haiti,Armenia,e-visa,visa on arrival
 Haiti,Azerbaijan,covid ban,visa required
 Haiti,Barbados,visa required,visa free
 Haiti,Belize,visa free,visa required
-Haiti,Benin,90,visa required
+Haiti,Djibouti,e-visa,visa on arrival
 Haiti,Dominica,visa required,visa free
 Haiti,Ecuador,90,visa required
-Haiti,Grenada,90,visa required
 Haiti,Guyana,visa on arrival,visa required
 Haiti,Iran,e-visa,visa on arrival
 Haiti,Nigeria,visa on arrival,visa required
 Haiti,Sierra Leone,visa on arrival,visa required
-Haiti,Suriname,covid ban,visa required
+Haiti,Suriname,covid ban,visa free
 Haiti,Turkey,visa on arrival,visa required
-Haiti,Uganda,e-visa,visa on arrival
 Honduras,Angola,visa on arrival,visa required
 Honduras,Armenia,e-visa,visa on arrival
 Honduras,Azerbaijan,covid ban,visa required
 Honduras,Bangladesh,visa on arrival,visa required
-Honduras,Barbados,90,visa required
+Honduras,Djibouti,e-visa,visa on arrival
 Honduras,Guyana,visa on arrival,visa required
 Honduras,Iran,e-visa,visa on arrival
 Honduras,Malawi,visa on arrival,visa required
 Honduras,Nigeria,visa on arrival,visa required
 Honduras,Oman,e-visa,visa free
 Honduras,Sierra Leone,visa on arrival,visa required
-Honduras,Suriname,90,visa required
-Honduras,Uganda,e-visa,visa on arrival
+Honduras,United Kingdom,180,visa required
 Hong Kong,Angola,visa on arrival,visa required
 Hong Kong,Azerbaijan,e-visa,visa on arrival
-Hong Kong,Ethiopia,e-visa,visa on arrival
+Hong Kong,Djibouti,e-visa,visa on arrival
 Hong Kong,Jamaica,visa required,visa free
-Hong Kong,Myanmar,visa required,visa on arrival
 Hong Kong,Nigeria,visa on arrival,visa required
-Hong Kong,Papua New Guinea,e-visa,visa on arrival
 Hong Kong,Sierra Leone,visa on arrival,visa required
+Hong Kong,South Korea,e-visa,visa free
 Hong Kong,Taiwan,visa on arrival,visa required
-Hong Kong,Uganda,visa required,visa free
 Hungary,Angola,visa on arrival,visa required
+Hungary,Djibouti,e-visa,visa on arrival
 Hungary,Gabon,e-visa,visa on arrival
 Hungary,Guyana,visa on arrival,visa required
 Hungary,Iran,e-visa,visa on arrival
 Hungary,Myanmar,e-visa,visa on arrival
 Hungary,Nigeria,visa on arrival,visa required
-Hungary,Papua New Guinea,e-visa,visa on arrival
-Hungary,Suriname,90,visa required
-Hungary,Uganda,e-visa,visa on arrival
 Iceland,Angola,visa on arrival,visa required
+Iceland,Djibouti,e-visa,visa on arrival
 Iceland,Guyana,visa on arrival,visa required
 Iceland,Iran,e-visa,visa on arrival
 Iceland,Nigeria,visa on arrival,visa required
-Iceland,Papua New Guinea,e-visa,visa on arrival
 Iceland,Sierra Leone,visa on arrival,visa required
-Iceland,Suriname,90,visa required
-Iceland,Uganda,e-visa,visa on arrival
-India,Albania,e-visa,visa free
 India,Angola,visa on arrival,visa required
-India,Botswana,e-visa,visa on arrival
-India,Ethiopia,e-visa,visa on arrival
+India,Djibouti,e-visa,visa on arrival
 India,Gabon,e-visa,visa on arrival
 India,Gambia,90,visa required
 India,Guyana,visa on arrival,visa required
@@ -768,500 +659,415 @@ India,Palestine,visa free,visa required
 India,Sri Lanka,e-visa,visa on arrival
 India,Suriname,90,visa required
 India,Tunisia,visa required,visa free
-India,Uganda,e-visa,visa on arrival
 Indonesia,Angola,visa on arrival,visa required
 Indonesia,Armenia,e-visa,visa on arrival
 Indonesia,Azerbaijan,e-visa,visa on arrival
 Indonesia,Bangladesh,visa on arrival,visa required
 Indonesia,Bolivia,visa on arrival,visa required
+Indonesia,Djibouti,e-visa,visa on arrival
 Indonesia,Gabon,e-visa,visa on arrival
 Indonesia,Iran,e-visa,visa on arrival
 Indonesia,Japan,visa required,visa free
 Indonesia,Nigeria,visa on arrival,visa required
 Indonesia,Palestine,visa free,visa required
-Indonesia,Papua New Guinea,e-visa,visa on arrival
-Indonesia,Saint Kitts and Nevis,90,visa required
-Indonesia,Senegal,visa required,visa on arrival
-Indonesia,Suriname,90,visa required
-Indonesia,Turkey,30,visa required
-Indonesia,Uganda,e-visa,visa on arrival
 Indonesia,Venezuela,90,visa required
 Iran,Angola,visa on arrival,visa required
 Iran,Azerbaijan,e-visa,visa on arrival
+Iran,Djibouti,e-visa,visa on arrival
 Iran,Ecuador,e-visa,visa free
 Iran,Guyana,visa on arrival,visa required
 Iran,Iraq,30,visa required
 Iran,Libya,no admission,visa required
+Iran,Mauritius,visa required,visa on arrival
 Iran,Nigeria,visa on arrival,visa required
-Iran,Senegal,visa required,visa on arrival
-Iran,Suriname,90,visa required
 Iran,Syria,visa required,visa on arrival
-Iran,Tanzania,e-visa,visa on arrival
-Iran,Uganda,e-visa,visa on arrival
 Iraq,Angola,visa on arrival,visa required
 Iraq,Azerbaijan,covid ban,visa required
 Iraq,Bolivia,visa on arrival,visa required
+Iraq,Djibouti,e-visa,visa on arrival
 Iraq,Guyana,visa on arrival,visa required
 Iraq,Nigeria,visa on arrival,visa required
-Iraq,Senegal,visa required,visa on arrival
 Iraq,Sierra Leone,visa on arrival,visa required
-Iraq,Suriname,90,visa required
-Iraq,Uganda,e-visa,visa on arrival
 Iraq,Zambia,90,visa required
 Ireland,Angola,visa on arrival,visa required
-Ireland,Ethiopia,e-visa,visa on arrival
+Ireland,Djibouti,e-visa,visa on arrival
 Ireland,Gabon,e-visa,visa on arrival
 Ireland,Iran,e-visa,visa on arrival
+Ireland,Myanmar,e-visa,visa on arrival
 Ireland,Nigeria,visa on arrival,visa required
-Ireland,Papua New Guinea,e-visa,visa on arrival
-Ireland,Suriname,90,visa required
 Israel,Algeria,no admission,visa required
 Israel,Angola,visa on arrival,visa required
 Israel,Bangladesh,no admission,visa required
 Israel,Bolivia,visa on arrival,visa required
 Israel,Brunei,no admission,visa required
-Israel,Ethiopia,e-visa,visa on arrival
+Israel,Djibouti,e-visa,visa on arrival
 Israel,Guyana,visa on arrival,visa required
 Israel,Iran,no admission,visa required
 Israel,Lebanon,no admission,visa required
 Israel,Libya,no admission,visa required
 Israel,Malaysia,no admission,visa required
+Israel,Myanmar,e-visa,visa on arrival
 Israel,Nigeria,visa on arrival,visa required
 Israel,Pakistan,no admission,visa required
-Israel,Papua New Guinea,e-visa,visa on arrival
 Israel,Saudi Arabia,no admission,visa required
 Israel,Syria,no admission,visa required
-Israel,Uganda,e-visa,visa on arrival
 Israel,Yemen,no admission,visa required
 Italy,Angola,visa on arrival,visa required
-Italy,Ethiopia,e-visa,visa on arrival
+Italy,Djibouti,e-visa,visa on arrival
 Italy,Gabon,e-visa,visa on arrival
 Italy,Iran,e-visa,visa on arrival
 Italy,Myanmar,e-visa,visa on arrival
 Italy,Nigeria,visa on arrival,visa required
-Italy,Papua New Guinea,e-visa,visa on arrival
-Italy,Suriname,90,visa required
-Italy,Uganda,e-visa,visa on arrival
+Italy,South Korea,e-visa,visa free
 Jamaica,Angola,visa on arrival,visa required
 Jamaica,Armenia,e-visa,visa on arrival
 Jamaica,Azerbaijan,covid ban,visa required
+Jamaica,Djibouti,e-visa,visa on arrival
 Jamaica,Iran,e-visa,visa on arrival
 Jamaica,Nigeria,visa on arrival,visa required
-Jamaica,Tajikistan,30,visa required
 Jamaica,Turkey,visa on arrival,visa required
 Japan,Angola,visa on arrival,visa required
-Japan,China,covid ban,visa free
-Japan,Ethiopia,e-visa,visa on arrival
+Japan,China,covid ban,visa required
+Japan,Djibouti,e-visa,visa on arrival
 Japan,Gabon,e-visa,visa on arrival
 Japan,Iran,e-visa,visa on arrival
-Japan,Myanmar,e-visa,visa free
+Japan,Myanmar,e-visa,visa on arrival
 Japan,Nigeria,visa on arrival,visa required
-Japan,Papua New Guinea,e-visa,visa on arrival
-Japan,Uganda,e-visa,visa on arrival
+Japan,South Korea,e-visa,visa free
 Jordan,Angola,visa on arrival,visa required
+Jordan,Djibouti,e-visa,visa on arrival
 Jordan,Guyana,visa on arrival,visa required
 Jordan,Nigeria,visa on arrival,visa required
 Jordan,Oman,e-visa,visa free
-Jordan,Senegal,visa required,visa on arrival
 Jordan,Sierra Leone,visa on arrival,visa required
 Jordan,Saint Vincent and the Grenadines,visa required,visa free
-Jordan,Suriname,90,visa required
-Jordan,Uganda,e-visa,visa on arrival
 Kazakhstan,Angola,visa on arrival,visa required
+Kazakhstan,China,visa required,visa free
+Kazakhstan,Djibouti,e-visa,visa on arrival
 Kazakhstan,Gambia,90,visa required
 Kazakhstan,Guyana,visa on arrival,visa required
-Kazakhstan,Indonesia,visa on arrival,visa required
 Kazakhstan,Lebanon,visa required,visa on arrival
 Kazakhstan,Montenegro,30,visa required
 Kazakhstan,Nigeria,visa on arrival,visa required
 Kazakhstan,Palestine,visa free,visa required
-Kazakhstan,Senegal,visa required,visa on arrival
 Kazakhstan,Sierra Leone,visa on arrival,visa required
-Kazakhstan,Suriname,90,visa required
 Kazakhstan,Syria,visa required,visa on arrival
-Kazakhstan,Uganda,e-visa,visa on arrival
 Kenya,Angola,visa on arrival,visa required
 Kenya,Azerbaijan,covid ban,visa required
+Kenya,Djibouti,e-visa,visa free
 Kenya,Guyana,visa on arrival,visa required
+Kenya,Indonesia,visa required,visa on arrival
 Kenya,Iran,e-visa,visa on arrival
 Kenya,Mali,visa required,visa on arrival
 Kenya,Suriname,90,visa required
 Kiribati,Angola,visa on arrival,visa required
 Kiribati,Armenia,e-visa,visa on arrival
 Kiribati,Azerbaijan,covid ban,visa required
+Kiribati,Djibouti,e-visa,visa on arrival
 Kiribati,Guyana,visa on arrival,visa required
 Kiribati,Iran,e-visa,visa on arrival
 Kiribati,Nigeria,visa on arrival,visa required
 Kiribati,Palestine,visa free,visa required
-Kiribati,Papua New Guinea,e-visa,visa on arrival
-Kiribati,Suriname,90,visa required
-Kiribati,Uganda,e-visa,visa on arrival
 Kosovo,Angola,visa on arrival,visa required
 Kosovo,Antigua and Barbuda,90,visa required
 Kosovo,Armenia,no admission,visa required
 Kosovo,Azerbaijan,covid ban,visa required
 Kosovo,Cambodia,visa on arrival,visa required
+Kosovo,Djibouti,e-visa,visa on arrival
 Kosovo,Guyana,visa on arrival,visa required
 Kosovo,Iran,e-visa,visa on arrival
 Kosovo,Nigeria,visa on arrival,visa required
 Kosovo,Palestine,visa free,visa required
 Kosovo,Seychelles,no admission,visa on arrival
 Kosovo,Sierra Leone,visa on arrival,visa required
-Kosovo,Suriname,90,visa required
-Kosovo,Uganda,e-visa,visa on arrival
 Kuwait,Angola,visa on arrival,visa required
-Kuwait,Barbados,90,visa required
-Kuwait,Ethiopia,e-visa,visa on arrival
+Kuwait,Djibouti,e-visa,visa on arrival
 Kuwait,Gabon,e-visa,visa on arrival
 Kuwait,Guyana,visa on arrival,visa required
 Kuwait,Iran,e-visa,visa on arrival
 Kuwait,Nigeria,visa on arrival,visa required
 Kuwait,Palestine,visa free,visa required
-Kuwait,Suriname,90,visa required
-Kuwait,Uganda,e-visa,visa on arrival
 Kuwait,United Kingdom,e-visa,visa free
-Kuwait,Uzbekistan,10,visa required
 Kuwait,Zambia,90,visa required
 Kyrgyzstan,Angola,visa on arrival,visa required
 Kyrgyzstan,Azerbaijan,covid ban,visa free
+Kyrgyzstan,Djibouti,e-visa,visa on arrival
 Kyrgyzstan,Guyana,visa on arrival,visa required
 Kyrgyzstan,Iran,e-visa,visa on arrival
 Kyrgyzstan,Nigeria,visa on arrival,visa required
 Kyrgyzstan,Oman,e-visa,visa free
 Kyrgyzstan,Palestine,visa free,visa required
-Kyrgyzstan,Senegal,visa required,visa on arrival
 Kyrgyzstan,Sierra Leone,visa on arrival,visa required
-Kyrgyzstan,Suriname,90,visa required
 Kyrgyzstan,Syria,visa required,visa on arrival
-Kyrgyzstan,Uganda,e-visa,visa on arrival
 Laos,Angola,visa on arrival,visa required
 Laos,Armenia,e-visa,visa on arrival
 Laos,Azerbaijan,covid ban,visa required
 Laos,Bolivia,visa on arrival,visa required
+Laos,Djibouti,e-visa,visa on arrival
 Laos,Guyana,visa on arrival,visa required
 Laos,Iran,e-visa,visa on arrival
 Laos,Nigeria,visa on arrival,visa required
 Laos,Oman,e-visa,visa free
 Laos,Palestine,visa free,visa required
-Laos,Senegal,visa required,visa on arrival
 Laos,Sierra Leone,visa on arrival,visa required
-Laos,Suriname,90,visa required
-Laos,Uganda,e-visa,visa on arrival
 Latvia,Angola,visa on arrival,visa required
+Latvia,Djibouti,e-visa,visa on arrival
 Latvia,Gabon,e-visa,visa on arrival
 Latvia,Guyana,visa on arrival,visa required
 Latvia,Iran,e-visa,visa on arrival
+Latvia,Myanmar,e-visa,visa on arrival
 Latvia,Nigeria,visa on arrival,visa required
-Latvia,Papua New Guinea,e-visa,visa on arrival
-Latvia,Suriname,90,visa required
-Latvia,Uganda,e-visa,visa on arrival
 Lebanon,Angola,visa on arrival,visa required
 Lebanon,Azerbaijan,covid ban,visa required
-Lebanon,Barbados,90,visa required
-Lebanon,Cambodia,visa on arrival,visa required
+Lebanon,Djibouti,e-visa,visa on arrival
 Lebanon,Guyana,visa on arrival,visa required
 Lebanon,Nigeria,visa on arrival,visa required
 Lebanon,Palestine,visa free,visa required
-Lebanon,Senegal,visa required,visa on arrival
 Lebanon,Sierra Leone,visa on arrival,visa required
-Lebanon,Suriname,90,visa required
-Lebanon,Uganda,e-visa,visa on arrival
 Lesotho,Angola,visa on arrival,visa required
 Lesotho,Azerbaijan,covid ban,visa required
+Lesotho,Djibouti,e-visa,visa on arrival
 Lesotho,Ethiopia,e-visa,visa on arrival
 Lesotho,Iran,e-visa,visa on arrival
-Lesotho,Suriname,90,visa required
 Liberia,Angola,visa on arrival,visa required
 Liberia,Azerbaijan,covid ban,visa required
+Liberia,Djibouti,e-visa,visa on arrival
 Liberia,Ethiopia,e-visa,visa on arrival
 Liberia,Guyana,visa on arrival,visa required
 Liberia,Iran,e-visa,visa on arrival
-Liberia,Suriname,90,visa required
-Liberia,Uganda,e-visa,visa on arrival
 Libya,Angola,visa on arrival,visa required
 Libya,Azerbaijan,covid ban,visa required
 Libya,Bolivia,visa on arrival,visa required
+Libya,Djibouti,e-visa,visa on arrival
 Libya,Ethiopia,e-visa,visa on arrival
 Libya,Guyana,visa on arrival,visa required
 Libya,Iran,e-visa,visa on arrival
 Libya,Palestine,visa free,visa required
 Libya,Sierra Leone,visa on arrival,visa required
-Libya,Suriname,90,visa required
-Libya,Uganda,e-visa,visa on arrival
 Liechtenstein,Angola,visa on arrival,visa required
 Liechtenstein,Azerbaijan,covid ban,visa required
+Liechtenstein,Djibouti,e-visa,visa on arrival
 Liechtenstein,Swaziland,30,visa required
 Liechtenstein,Guyana,visa on arrival,visa required
 Liechtenstein,Iran,e-visa,visa on arrival
 Liechtenstein,Nigeria,visa on arrival,visa required
-Liechtenstein,Papua New Guinea,e-visa,visa on arrival
 Liechtenstein,Sierra Leone,visa on arrival,visa required
-Liechtenstein,Suriname,90,visa required
-Liechtenstein,Uganda,e-visa,visa on arrival
 Lithuania,Angola,visa on arrival,visa required
+Lithuania,Djibouti,e-visa,visa on arrival
 Lithuania,Gabon,e-visa,visa on arrival
 Lithuania,Ghana,visa on arrival,visa required
 Lithuania,Guyana,visa on arrival,visa required
 Lithuania,Iran,e-visa,visa on arrival
+Lithuania,Myanmar,e-visa,visa on arrival
 Lithuania,Nigeria,visa on arrival,visa required
-Lithuania,Papua New Guinea,e-visa,visa on arrival
-Lithuania,Suriname,90,visa required
-Lithuania,Uganda,e-visa,visa on arrival
 Luxembourg,Angola,visa on arrival,visa required
-Luxembourg,Ethiopia,e-visa,visa on arrival
+Luxembourg,Djibouti,e-visa,visa on arrival
 Luxembourg,Gabon,e-visa,visa on arrival
 Luxembourg,Iran,e-visa,visa on arrival
 Luxembourg,Myanmar,e-visa,visa on arrival
 Luxembourg,Nigeria,visa on arrival,visa required
-Luxembourg,Papua New Guinea,e-visa,visa on arrival
-Luxembourg,Suriname,90,visa required
-Luxembourg,Uganda,e-visa,visa on arrival
 Macao,Angola,visa on arrival,visa required
 Macao,Azerbaijan,covid ban,visa required
 Macao,China,visa free,visa required
-Macao,Ethiopia,e-visa,visa on arrival
+Macao,Djibouti,e-visa,visa on arrival
 Macao,Guyana,visa on arrival,visa required
-Macao,Myanmar,visa required,visa on arrival
+Macao,Indonesia,visa required,visa on arrival
 Macao,Nigeria,visa on arrival,visa required
-Macao,Papua New Guinea,e-visa,visa on arrival
-Macao,Suriname,90,visa required
-Macao,Uganda,e-visa,visa on arrival
+Macao,South Korea,e-visa,visa free
 Macao,Ukraine,30,visa required
+Macao,Uzbekistan,e-visa,visa free
 Madagascar,Angola,visa on arrival,visa required
 Madagascar,Antigua and Barbuda,visa free,visa required
 Madagascar,Azerbaijan,covid ban,visa required
-Madagascar,Barbados,90,visa required
+Madagascar,Djibouti,e-visa,visa on arrival
 Madagascar,Ethiopia,e-visa,visa on arrival
 Madagascar,Guyana,visa on arrival,visa required
 Madagascar,Iran,e-visa,visa on arrival
 Madagascar,Sierra Leone,visa on arrival,visa required
-Madagascar,South Africa,90,visa required
-Madagascar,Suriname,90,visa required
 Malawi,Angola,visa on arrival,visa required
 Malawi,Azerbaijan,covid ban,visa required
+Malawi,Djibouti,e-visa,visa on arrival
 Malawi,Ethiopia,e-visa,visa on arrival
 Malawi,Guyana,visa on arrival,visa required
 Malawi,Iran,e-visa,visa on arrival
-Malawi,Suriname,90,visa required
 Malaysia,Angola,visa on arrival,visa required
 Malaysia,Armenia,e-visa,visa on arrival
+Malaysia,Djibouti,e-visa,visa on arrival
+Malaysia,Myanmar,e-visa,visa on arrival
 Malaysia,Nigeria,visa on arrival,visa required
 Malaysia,Palestine,visa free,visa required
-Malaysia,Papua New Guinea,e-visa,visa on arrival
 Malaysia,Syria,visa required,visa on arrival
 Maldives,Angola,visa on arrival,visa required
 Maldives,Armenia,visa required,visa on arrival
+Maldives,Djibouti,e-visa,visa on arrival
 Maldives,Egypt,visa required,visa on arrival
 Maldives,Guyana,visa on arrival,visa required
 Maldives,Iran,e-visa,visa on arrival
 Maldives,Kazakhstan,30,visa required
+Maldives,Kyrgyzstan,e-visa,visa free
 Maldives,Nigeria,visa on arrival,visa required
 Maldives,Oman,e-visa,visa free
 Maldives,Palestine,visa free,visa required
-Maldives,Papua New Guinea,e-visa,visa on arrival
-Maldives,Senegal,visa required,visa on arrival
 Maldives,Sierra Leone,visa on arrival,visa required
 Maldives,Sri Lanka,e-visa,visa free
-Maldives,Suriname,90,visa required
-Maldives,Tajikistan,30,visa required
 Maldives,Turkey,visa on arrival,visa required
-Maldives,Uganda,e-visa,visa on arrival
 Maldives,Venezuela,90,visa required
 Mali,Angola,visa on arrival,visa required
 Mali,Azerbaijan,covid ban,visa required
+Mali,Djibouti,e-visa,visa on arrival
 Mali,Ecuador,e-visa,visa free
 Mali,Ethiopia,e-visa,visa on arrival
 Mali,Guyana,visa on arrival,visa required
 Mali,Iran,e-visa,visa on arrival
 Mali,Kenya,visa on arrival,visa required
 Mali,Morocco,e-visa,visa free
-Mali,Suriname,90,visa required
-Mali,Uganda,e-visa,visa on arrival
 Malta,Angola,visa on arrival,visa required
+Malta,Djibouti,e-visa,visa on arrival
 Malta,Gabon,e-visa,visa on arrival
 Malta,Guyana,visa on arrival,visa required
 Malta,Iran,e-visa,visa on arrival
 Malta,Lesotho,visa required,visa free
+Malta,Myanmar,e-visa,visa on arrival
 Malta,Nigeria,visa on arrival,visa required
-Malta,Papua New Guinea,e-visa,visa on arrival
-Malta,Suriname,90,visa required
 Marshall Islands,Angola,visa on arrival,visa required
 Marshall Islands,Armenia,e-visa,visa on arrival
 Marshall Islands,Azerbaijan,covid ban,visa required
-Marshall Islands,Barbados,90,visa required
+Marshall Islands,Djibouti,e-visa,visa on arrival
 Marshall Islands,Guyana,visa on arrival,visa required
 Marshall Islands,Iran,e-visa,visa on arrival
 Marshall Islands,Nigeria,visa on arrival,visa required
 Marshall Islands,Palestine,visa free,visa required
-Marshall Islands,Papua New Guinea,e-visa,visa on arrival
 Marshall Islands,Sierra Leone,visa on arrival,visa required
-Marshall Islands,Suriname,90,visa required
-Marshall Islands,Uganda,e-visa,visa on arrival
 Mauritania,Angola,visa on arrival,visa required
 Mauritania,Azerbaijan,covid ban,visa required
+Mauritania,Djibouti,e-visa,visa on arrival
 Mauritania,Ethiopia,e-visa,visa on arrival
 Mauritania,Guyana,visa on arrival,visa required
 Mauritania,Iran,e-visa,visa on arrival
+Mauritania,Namibia,visa required,visa on arrival
 Mauritania,Oman,e-visa,visa free
-Mauritania,Suriname,90,visa required
-Mauritania,Togo,visa required,visa free
-Mauritania,Uganda,e-visa,visa on arrival
 Mauritius,Azerbaijan,visa on arrival,visa required
+Mauritius,Djibouti,e-visa,visa on arrival
 Mauritius,Ethiopia,e-visa,visa on arrival
 Mauritius,Guyana,visa on arrival,visa required
 Mauritius,Iran,e-visa,visa on arrival
-Mauritius,Suriname,90,visa required
 Mauritius,Turkey,visa on arrival,visa required
 Mexico,Angola,visa on arrival,visa required
-Mexico,Ethiopia,e-visa,visa on arrival
+Mexico,Djibouti,e-visa,visa on arrival
 Mexico,Gabon,e-visa,visa on arrival
 Mexico,Guyana,visa on arrival,visa required
 Mexico,Iran,e-visa,visa on arrival
 Mexico,Nigeria,visa on arrival,visa required
 Mexico,Oman,e-visa,visa free
-Mexico,Papua New Guinea,e-visa,visa on arrival
-Mexico,Senegal,visa required,visa on arrival
 Mexico,Sierra Leone,visa on arrival,visa required
-Mexico,Suriname,90,visa required
-Mexico,Uganda,e-visa,visa on arrival
 Mexico,Zimbabwe,e-visa,visa on arrival
 Micronesia,Angola,visa on arrival,visa required
 Micronesia,Armenia,e-visa,visa on arrival
 Micronesia,Azerbaijan,covid ban,visa required
-Micronesia,Barbados,90,visa required
-Micronesia,Grenada,90,visa required
+Micronesia,Djibouti,e-visa,visa on arrival
 Micronesia,Guyana,visa on arrival,visa required
 Micronesia,Iran,e-visa,visa on arrival
 Micronesia,Jordan,visa required,visa on arrival
-Micronesia,Malaysia,30,visa required
 Micronesia,Nigeria,visa on arrival,visa required
-Micronesia,Papua New Guinea,e-visa,visa on arrival
 Micronesia,Sierra Leone,visa on arrival,visa required
-Micronesia,Suriname,90,visa required
-Micronesia,Uganda,e-visa,visa on arrival
 Moldova,Angola,visa on arrival,visa required
-Moldova,Brazil,90,visa required
+Moldova,Djibouti,e-visa,visa on arrival
 Moldova,Gambia,90,visa required
 Moldova,Guyana,visa on arrival,visa required
 Moldova,Iran,e-visa,visa on arrival
 Moldova,Nigeria,visa on arrival,visa required
-Moldova,Senegal,visa required,visa on arrival
 Moldova,Sierra Leone,visa on arrival,visa required
-Moldova,Suriname,90,visa required
 Moldova,Syria,visa required,visa on arrival
-Moldova,Uganda,e-visa,visa on arrival
 Monaco,Angola,visa on arrival,visa required
 Monaco,Azerbaijan,covid ban,visa required
+Monaco,Djibouti,e-visa,visa on arrival
 Monaco,Egypt,visa on arrival,visa required
 Monaco,Guyana,visa on arrival,visa required
 Monaco,Iran,e-visa,visa on arrival
 Monaco,Nigeria,visa on arrival,visa required
-Monaco,Papua New Guinea,e-visa,visa on arrival
 Monaco,Sierra Leone,visa on arrival,visa required
-Monaco,Suriname,90,visa required
-Monaco,Uganda,e-visa,visa on arrival
 Mongolia,Angola,visa on arrival,visa required
 Mongolia,Armenia,e-visa,visa on arrival
-Mongolia,Barbados,90,visa required
 Mongolia,China,30,visa required
+Mongolia,Djibouti,e-visa,visa on arrival
 Mongolia,Guyana,visa on arrival,visa required
 Mongolia,Iran,e-visa,visa on arrival
 Mongolia,Nigeria,visa on arrival,visa required
 Mongolia,Peru,90,visa required
-Mongolia,Senegal,visa required,visa on arrival
 Mongolia,Sierra Leone,visa on arrival,visa required
-Mongolia,Suriname,90,visa required
-Mongolia,Uganda,e-visa,visa on arrival
 Montenegro,Angola,visa on arrival,visa required
 Montenegro,Barbados,90,visa required
+Montenegro,Djibouti,e-visa,visa on arrival
 Montenegro,Guyana,visa on arrival,visa required
 Montenegro,Iran,e-visa,visa on arrival
 Montenegro,Nigeria,visa on arrival,visa required
 Montenegro,Oman,visa on arrival,visa required
-Montenegro,Senegal,visa required,visa on arrival
 Montenegro,Sierra Leone,visa on arrival,visa required
-Montenegro,Suriname,90,visa required
-Montenegro,Uganda,e-visa,visa on arrival
 Morocco,Angola,visa on arrival,visa required
 Morocco,Burkina Faso,visa free,visa required
-Morocco,Colombia,90,visa required
+Morocco,Djibouti,e-visa,visa on arrival
 Morocco,Ethiopia,e-visa,visa on arrival
 Morocco,Guyana,visa on arrival,visa required
 Morocco,Iran,e-visa,visa on arrival
 Morocco,Oman,e-visa,visa free
 Morocco,Palestine,visa free,visa required
 Morocco,Sierra Leone,visa on arrival,visa required
-Morocco,Suriname,90,visa required
-Morocco,Uganda,e-visa,visa on arrival
 Mozambique,Azerbaijan,covid ban,visa required
-Mozambique,Barbados,90,visa required
+Mozambique,Djibouti,e-visa,visa on arrival
 Mozambique,Ethiopia,e-visa,visa on arrival
 Mozambique,Guyana,visa on arrival,visa required
 Mozambique,Iran,e-visa,visa on arrival
+Mozambique,Kenya,e-visa,visa free
 Mozambique,Lesotho,visa required,visa free
-Mozambique,Senegal,visa required,visa on arrival
-Mozambique,Suriname,90,visa required
-Mozambique,Uganda,e-visa,visa on arrival
 Myanmar,Angola,visa on arrival,visa required
 Myanmar,Armenia,e-visa,visa on arrival
 Myanmar,Azerbaijan,covid ban,visa required
+Myanmar,Djibouti,e-visa,visa on arrival
 Myanmar,Ecuador,e-visa,visa free
 Myanmar,Guyana,visa on arrival,visa required
 Myanmar,Iran,e-visa,visa on arrival
 Myanmar,Nigeria,visa on arrival,visa required
-Myanmar,Senegal,visa required,visa on arrival
 Myanmar,Sierra Leone,visa on arrival,visa required
-Myanmar,Suriname,90,visa required
-Myanmar,Uganda,e-visa,visa on arrival
 Namibia,Azerbaijan,covid ban,visa required
-Namibia,Barbados,90,visa required
+Namibia,Djibouti,e-visa,visa on arrival
 Namibia,Ethiopia,e-visa,visa on arrival
 Namibia,Guyana,visa on arrival,visa required
 Namibia,Iran,e-visa,visa on arrival
-Namibia,Russia,90,visa required
-Namibia,Suriname,90,visa required
-Namibia,Uganda,e-visa,visa on arrival
+Namibia,United Kingdom,180,visa required
 Nauru,Angola,visa on arrival,visa required
 Nauru,Armenia,e-visa,visa on arrival
 Nauru,Azerbaijan,covid ban,visa required
-Nauru,Barbados,90,visa required
+Nauru,Djibouti,e-visa,visa on arrival
 Nauru,Guyana,visa on arrival,visa required
 Nauru,Iran,e-visa,visa on arrival
 Nauru,Nigeria,visa on arrival,visa required
-Nauru,Papua New Guinea,e-visa,visa on arrival
-Nauru,Senegal,visa required,visa on arrival
-Nauru,Suriname,90,visa required
-Nauru,Uganda,e-visa,visa on arrival
 Nepal,Angola,visa on arrival,visa required
 Nepal,Azerbaijan,visa on arrival,visa required
-Nepal,Barbados,90,visa required
+Nepal,Djibouti,e-visa,visa on arrival
 Nepal,Guyana,visa on arrival,visa required
+Nepal,Myanmar,e-visa,visa on arrival
 Nepal,Nigeria,visa on arrival,visa required
 Nepal,Palestine,visa free,visa required
 Nepal,Sierra Leone,visa on arrival,visa required
 Nepal,Suriname,90,visa required
-Nepal,Uganda,e-visa,visa on arrival
 Netherlands,Angola,visa on arrival,visa required
-Netherlands,Ethiopia,e-visa,visa on arrival
+Netherlands,Djibouti,e-visa,visa on arrival
 Netherlands,Gabon,e-visa,visa on arrival
 Netherlands,Iran,e-visa,visa on arrival
+Netherlands,Myanmar,e-visa,visa on arrival
 Netherlands,Nigeria,visa on arrival,visa required
-Netherlands,Papua New Guinea,e-visa,visa on arrival
-Netherlands,Suriname,90,visa required
-Netherlands,Uganda,e-visa,visa on arrival
+Netherlands,South Korea,e-visa,visa free
 New Zealand,Angola,visa on arrival,visa required
-New Zealand,Ethiopia,e-visa,visa on arrival
+New Zealand,Djibouti,e-visa,visa on arrival
 New Zealand,Iran,e-visa,visa on arrival
 New Zealand,Myanmar,e-visa,visa on arrival
 New Zealand,Nigeria,visa on arrival,visa required
-New Zealand,Papua New Guinea,e-visa,visa on arrival
-New Zealand,Suriname,90,visa required
-New Zealand,Uganda,e-visa,visa on arrival
+New Zealand,South Korea,e-visa,visa free
 Nicaragua,Angola,visa on arrival,visa required
 Nicaragua,Armenia,e-visa,visa on arrival
 Nicaragua,Azerbaijan,covid ban,visa required
+Nicaragua,Djibouti,e-visa,visa on arrival
 Nicaragua,Egypt,visa on arrival,visa required
-Nicaragua,Grenada,90,visa required
 Nicaragua,Guyana,visa on arrival,visa required
 Nicaragua,Iran,e-visa,visa on arrival
 Nicaragua,Kosovo,visa required,visa free
@@ -1269,180 +1075,149 @@ Nicaragua,Malawi,visa on arrival,visa required
 Nicaragua,Nigeria,visa on arrival,visa required
 Nicaragua,Oman,e-visa,visa free
 Nicaragua,Palestine,visa free,visa required
-Nicaragua,Senegal,visa required,visa on arrival
 Nicaragua,Sierra Leone,visa on arrival,visa required
-Nicaragua,Suriname,90,visa required
-Nicaragua,Uganda,e-visa,visa on arrival
 Niger,Angola,visa on arrival,visa required
 Niger,Azerbaijan,covid ban,visa required
-Niger,Barbados,90,visa required
+Niger,Djibouti,e-visa,visa on arrival
 Niger,Ethiopia,e-visa,visa on arrival
 Niger,Guyana,visa on arrival,visa required
 Niger,Iran,e-visa,visa on arrival
-Niger,Suriname,90,visa required
-Niger,Uganda,e-visa,visa on arrival
+Niger,Namibia,visa required,visa on arrival
 Nigeria,Angola,visa on arrival,visa required
 Nigeria,Azerbaijan,covid ban,visa required
 Nigeria,Bolivia,visa on arrival,visa required
+Nigeria,Djibouti,e-visa,visa on arrival
 Nigeria,Ethiopia,e-visa,visa on arrival
 Nigeria,Guyana,visa on arrival,visa required
 Nigeria,Iran,e-visa,visa on arrival
+Nigeria,Namibia,visa on arrival,visa required
+Nigeria,Seychelles,90,visa required
+Nigeria,Sri Lanka,visa required,e-visa
 Nigeria,Suriname,90,visa required
-Nigeria,Uganda,e-visa,visa on arrival
 North Korea,Angola,visa on arrival,visa required
 North Korea,Azerbaijan,covid ban,visa required
-North Korea,Belarus,visa required,visa free
 North Korea,Bolivia,visa on arrival,visa required
-North Korea,Ethiopia,e-visa,visa on arrival
+North Korea,Djibouti,e-visa,visa on arrival
 North Korea,Iran,e-visa,visa on arrival
 North Korea,Japan,no admission,visa required
+North Korea,Myanmar,visa required,visa on arrival
 North Korea,Nigeria,visa on arrival,visa required
 North Korea,Palestine,visa free,visa required
 North Korea,Sierra Leone,visa on arrival,visa required
 North Korea,Sri Lanka,no admission,visa required
-North Korea,Suriname,90,visa required
-North Korea,Uganda,e-visa,visa on arrival
 North Macedonia,Angola,visa on arrival,visa required
 North Macedonia,Antigua and Barbuda,180,visa required
 North Macedonia,Azerbaijan,visa on arrival,visa required
-North Macedonia,Barbados,90,visa required
+North Macedonia,Djibouti,e-visa,visa on arrival
 North Macedonia,Georgia,90,visa required
 North Macedonia,Guyana,visa on arrival,visa required
 North Macedonia,Iran,e-visa,visa on arrival
 North Macedonia,Nigeria,visa on arrival,visa required
 North Macedonia,Russia,30,visa required
-North Macedonia,Senegal,visa required,visa on arrival
 North Macedonia,Sierra Leone,visa on arrival,visa required
-North Macedonia,Suriname,90,visa required
-North Macedonia,Uganda,e-visa,visa on arrival
-North Macedonia,Uzbekistan,e-visa,visa free
 Norway,Angola,visa on arrival,visa required
-Norway,Ethiopia,e-visa,visa on arrival
+Norway,Djibouti,e-visa,visa on arrival
 Norway,Iran,e-visa,visa on arrival
+Norway,Myanmar,e-visa,visa on arrival
 Norway,Nigeria,visa on arrival,visa required
-Norway,Papua New Guinea,e-visa,visa on arrival
-Norway,Suriname,90,visa required
-Norway,Uganda,e-visa,visa on arrival
+Norway,South Korea,e-visa,visa free
 Oman,Albania,visa required,visa free
 Oman,Angola,visa on arrival,visa required
+Oman,Colombia,e-visa,visa free
+Oman,Djibouti,e-visa,visa on arrival
 Oman,Gabon,e-visa,visa on arrival
 Oman,Guyana,visa on arrival,visa required
 Oman,Nigeria,visa on arrival,visa required
 Oman,Palestine,visa free,visa required
-Oman,Suriname,90,visa required
 Oman,Turkey,visa on arrival,visa required
-Oman,Uganda,e-visa,visa on arrival
-Oman,Uzbekistan,10,visa required
 Oman,Zambia,90,visa required
 Pakistan,Angola,visa on arrival,visa required
-Pakistan,Barbados,90,visa required
 Pakistan,Bolivia,visa on arrival,visa required
+Pakistan,Djibouti,e-visa,visa on arrival
 Pakistan,Gambia,90,visa required
 Pakistan,Guyana,visa on arrival,visa required
 Pakistan,Libya,no admission,visa required
 Pakistan,Mozambique,e-visa,visa on arrival
 Pakistan,Nigeria,visa on arrival,visa required
+Pakistan,Sri Lanka,visa required,e-visa
 Pakistan,Suriname,90,visa required
-Pakistan,Tanzania,e-visa,visa on arrival
-Pakistan,Uganda,e-visa,visa on arrival
 Palau,Angola,visa on arrival,visa required
 Palau,Armenia,e-visa,visa on arrival
 Palau,Azerbaijan,covid ban,visa required
-Palau,Barbados,90,visa required
-Palau,Grenada,90,visa required
+Palau,Djibouti,e-visa,visa on arrival
 Palau,Guyana,visa on arrival,visa required
 Palau,Iran,e-visa,visa on arrival
 Palau,Nigeria,visa on arrival,visa required
-Palau,Papua New Guinea,e-visa,visa on arrival
 Palau,Sierra Leone,visa on arrival,visa required
-Palau,Suriname,90,visa required
-Palau,Uganda,e-visa,visa on arrival
 Palestine,Angola,visa on arrival,visa required
 Palestine,Azerbaijan,covid ban,visa required
+Palestine,Djibouti,e-visa,visa on arrival
 Palestine,Guyana,visa on arrival,visa required
 Palestine,Iran,e-visa,visa on arrival
 Palestine,Madagascar,visa on arrival,visa required
 Palestine,Nepal,visa on arrival,visa required
 Palestine,Nigeria,visa on arrival,visa required
-Palestine,Saint Lucia,visa required,visa on arrival
 Palestine,Sierra Leone,visa on arrival,visa required
 Palestine,Saint Vincent and the Grenadines,visa required,visa free
-Palestine,Suriname,90,visa required
-Palestine,Uganda,e-visa,visa on arrival
 Panama,Angola,visa on arrival,visa required
+Panama,Djibouti,e-visa,visa on arrival
+Panama,Indonesia,visa required,visa on arrival
 Panama,Iran,e-visa,visa on arrival
 Panama,Nigeria,visa on arrival,visa required
 Panama,Oman,e-visa,visa free
-Panama,Senegal,visa required,visa on arrival
 Panama,Sierra Leone,visa on arrival,visa required
 Panama,Solomon Islands,visa required,visa on arrival
-Panama,Suriname,90,visa required
-Panama,Uganda,e-visa,visa on arrival
 Panama,Vietnam,90,visa required
 Papua New Guinea,Angola,visa on arrival,visa required
 Papua New Guinea,Armenia,e-visa,visa on arrival
 Papua New Guinea,Azerbaijan,covid ban,visa required
+Papua New Guinea,Djibouti,e-visa,visa on arrival
 Papua New Guinea,Guyana,visa on arrival,visa required
 Papua New Guinea,Iran,e-visa,visa on arrival
 Papua New Guinea,Malawi,visa on arrival,visa required
 Papua New Guinea,Nigeria,visa on arrival,visa required
-Papua New Guinea,Suriname,90,visa required
-Papua New Guinea,Uganda,e-visa,visa on arrival
 Paraguay,Angola,visa on arrival,visa required
 Paraguay,Armenia,e-visa,visa on arrival
 Paraguay,Azerbaijan,visa on arrival,visa required
-Paraguay,Barbados,90,visa required
+Paraguay,Djibouti,e-visa,visa on arrival
+Paraguay,Georgia,e-visa,visa free
 Paraguay,Guyana,visa on arrival,visa required
 Paraguay,Iran,e-visa,visa on arrival
 Paraguay,Lebanon,visa on arrival,visa required
 Paraguay,Nigeria,visa on arrival,visa required
-Paraguay,Senegal,visa required,visa on arrival
 Paraguay,Sierra Leone,visa on arrival,visa required
-Paraguay,Suriname,90,visa required
-Paraguay,Uganda,e-visa,visa on arrival
 Peru,Angola,visa on arrival,visa required
-Peru,Grenada,90,visa required
+Peru,Djibouti,e-visa,visa on arrival
 Peru,Iran,e-visa,visa on arrival
-Peru,Mongolia,90,visa required
 Peru,Nigeria,visa on arrival,visa required
 Peru,Oman,e-visa,visa free
-Peru,Papua New Guinea,e-visa,visa on arrival
-Peru,Senegal,visa required,visa on arrival
 Peru,Sierra Leone,visa on arrival,visa required
-Peru,Suriname,90,visa required
-Peru,Uganda,e-visa,visa on arrival
-Peru,Ukraine,90,visa required
 Peru,United Arab Emirates,90,visa required
 Philippines,Angola,visa on arrival,visa required
 Philippines,Armenia,e-visa,visa on arrival
 Philippines,Azerbaijan,covid ban,visa required
+Philippines,Djibouti,e-visa,visa on arrival
 Philippines,Guyana,visa on arrival,visa required
 Philippines,Iran,e-visa,visa on arrival
 Philippines,Nigeria,visa on arrival,visa required
-Philippines,Papua New Guinea,e-visa,visa on arrival
 Philippines,Sierra Leone,visa on arrival,visa required
-Philippines,Uganda,e-visa,visa on arrival
 Poland,Angola,visa on arrival,visa required
-Poland,Belarus,30,visa required
-Poland,Ethiopia,e-visa,visa on arrival
+Poland,Djibouti,e-visa,visa on arrival
 Poland,Gabon,e-visa,visa on arrival
 Poland,Guyana,visa on arrival,visa required
 Poland,Iran,e-visa,visa on arrival
+Poland,Myanmar,e-visa,visa on arrival
 Poland,Nigeria,visa on arrival,visa required
-Poland,Papua New Guinea,e-visa,visa on arrival
-Poland,Suriname,90,visa required
-Poland,Uganda,e-visa,visa on arrival
+Poland,South Korea,e-visa,visa free
 Portugal,Angola,visa on arrival,visa required
-Portugal,Ethiopia,e-visa,visa on arrival
+Portugal,Djibouti,e-visa,visa on arrival
 Portugal,Gabon,e-visa,visa on arrival
 Portugal,Iran,e-visa,visa on arrival
+Portugal,Myanmar,e-visa,visa on arrival
 Portugal,Nigeria,visa on arrival,visa required
-Portugal,Papua New Guinea,e-visa,visa on arrival
-Portugal,Suriname,90,visa required
-Portugal,Uganda,e-visa,visa on arrival
 Qatar,Albania,visa required,visa free
 Qatar,Angola,visa on arrival,visa required
-Qatar,Bahrain,visa free,visa required
+Qatar,Djibouti,e-visa,visa on arrival
 Qatar,Egypt,180,visa required
 Qatar,Gabon,e-visa,visa on arrival
 Qatar,Guyana,visa on arrival,visa required
@@ -1450,300 +1225,262 @@ Qatar,Iran,e-visa,visa on arrival
 Qatar,Japan,visa required,visa free
 Qatar,Nigeria,visa on arrival,visa required
 Qatar,Palestine,visa free,visa required
-Qatar,Senegal,visa required,visa free
-Qatar,Suriname,90,visa required
-Qatar,Uganda,e-visa,visa on arrival
 Qatar,Uruguay,visa required,visa free
-Qatar,Uzbekistan,10,visa required
 Qatar,Zambia,90,visa required
 Romania,Angola,visa on arrival,visa required
+Romania,Djibouti,e-visa,visa on arrival
 Romania,Gabon,e-visa,visa on arrival
 Romania,Guyana,visa on arrival,visa required
 Romania,Iran,e-visa,visa on arrival
+Romania,Myanmar,e-visa,visa on arrival
 Romania,Nigeria,visa on arrival,visa required
-Romania,Papua New Guinea,e-visa,visa on arrival
-Romania,Suriname,90,visa required
-Romania,Uganda,e-visa,visa on arrival
-Russia,Albania,e-visa,visa free
 Russia,Angola,visa on arrival,visa required
 Russia,Bangladesh,visa on arrival,visa required
-Russia,Belize,visa required,visa free
-Russia,Ethiopia,e-visa,visa on arrival
+Russia,Djibouti,e-visa,visa on arrival
 Russia,Gabon,e-visa,visa on arrival
 Russia,Iran,e-visa,visa on arrival
 Russia,Myanmar,e-visa,visa on arrival
 Russia,Nigeria,visa on arrival,visa required
 Russia,North Macedonia,visa required,visa free
-Russia,Uganda,e-visa,visa on arrival
 Rwanda,Azerbaijan,covid ban,visa required
 Rwanda,Bolivia,visa on arrival,visa required
 Rwanda,Chad,90,visa required
+Rwanda,Djibouti,e-visa,visa on arrival
 Rwanda,Ethiopia,e-visa,visa on arrival
 Rwanda,Guinea,visa free,visa required
 Rwanda,Guyana,visa on arrival,visa required
+Rwanda,Indonesia,visa required,visa on arrival
 Rwanda,Iran,e-visa,visa on arrival
 Rwanda,Palestine,visa free,visa required
 Rwanda,South Sudan,e-visa,visa on arrival
-Rwanda,Suriname,90,visa required
 Saint Kitts and Nevis,Angola,visa on arrival,visa required
 Saint Kitts and Nevis,Armenia,e-visa,visa on arrival
 Saint Kitts and Nevis,Azerbaijan,covid ban,visa required
+Saint Kitts and Nevis,Belarus,30,visa required
+Saint Kitts and Nevis,Djibouti,e-visa,visa on arrival
 Saint Kitts and Nevis,Swaziland,visa required,visa free
 Saint Kitts and Nevis,Georgia,e-visa,visa free
 Saint Kitts and Nevis,Iran,e-visa,visa on arrival
 Saint Kitts and Nevis,Nigeria,visa on arrival,visa required
-Saint Kitts and Nevis,Uganda,e-visa,visa on arrival
 Saint Lucia,Angola,visa on arrival,visa required
 Saint Lucia,Armenia,e-visa,visa on arrival
 Saint Lucia,Azerbaijan,covid ban,visa required
+Saint Lucia,Djibouti,e-visa,visa on arrival
 Saint Lucia,Iran,e-visa,visa on arrival
 Saint Lucia,Nigeria,visa on arrival,visa required
 Saint Lucia,Turkey,visa on arrival,visa required
-Saint Lucia,Uganda,e-visa,visa on arrival
 Samoa,Angola,visa on arrival,visa required
 Samoa,Armenia,visa required,visa on arrival
 Samoa,Azerbaijan,covid ban,visa required
+Samoa,Djibouti,e-visa,visa on arrival
 Samoa,Guyana,visa on arrival,visa required
 Samoa,Iran,e-visa,visa on arrival
 Samoa,Nigeria,visa on arrival,visa required
 Samoa,Pakistan,30,e-visa
 Samoa,Palestine,visa free,visa required
-Samoa,Papua New Guinea,e-visa,visa on arrival
-Samoa,Suriname,90,visa required
-Samoa,Uganda,e-visa,visa on arrival
 San Marino,Angola,visa on arrival,visa required
 San Marino,Azerbaijan,covid ban,visa required
+San Marino,Belize,visa required,visa free
+San Marino,Djibouti,e-visa,visa on arrival
 San Marino,Guyana,visa on arrival,visa required
 San Marino,Iran,e-visa,visa on arrival
 San Marino,Nigeria,visa on arrival,visa required
-San Marino,Papua New Guinea,e-visa,visa on arrival
+San Marino,Saint Kitts and Nevis,e-visa,visa free
 San Marino,Sierra Leone,visa on arrival,visa required
-San Marino,Suriname,90,visa required
-San Marino,Uganda,e-visa,visa on arrival
 Sao Tome and Principe,Angola,visa on arrival,visa required
 Sao Tome and Principe,Azerbaijan,covid ban,visa required
-Sao Tome and Principe,Barbados,90,visa required
 Sao Tome and Principe,Djibouti,e-visa,visa on arrival
 Sao Tome and Principe,Gambia,90,visa required
 Sao Tome and Principe,Guyana,visa on arrival,visa required
 Sao Tome and Principe,Iran,e-visa,visa on arrival
 Sao Tome and Principe,Nigeria,visa on arrival,visa required
 Sao Tome and Principe,Palestine,visa free,visa required
-Sao Tome and Principe,Senegal,visa required,visa on arrival
 Sao Tome and Principe,Sierra Leone,visa on arrival,visa required
-Sao Tome and Principe,Suriname,90,visa required
-Sao Tome and Principe,Uganda,e-visa,visa on arrival
 Saudi Arabia,Angola,visa on arrival,visa required
+Saudi Arabia,Djibouti,e-visa,visa on arrival
 Saudi Arabia,Gabon,e-visa,visa on arrival
 Saudi Arabia,Guyana,visa on arrival,visa required
 Saudi Arabia,Iran,e-visa,visa on arrival
 Saudi Arabia,Montenegro,30,visa required
 Saudi Arabia,Nigeria,visa on arrival,visa required
 Saudi Arabia,Palestine,visa free,visa required
-Saudi Arabia,Senegal,visa required,visa on arrival
-Saudi Arabia,Suriname,90,visa required
+Saudi Arabia,Singapore,e-visa,visa free
 Saudi Arabia,Turkey,visa on arrival,visa required
-Saudi Arabia,Uganda,e-visa,visa on arrival
 Saudi Arabia,Uzbekistan,90,visa required
 Saudi Arabia,Zambia,90,visa required
 Senegal,Angola,visa on arrival,visa required
 Senegal,Azerbaijan,covid ban,visa required
+Senegal,Djibouti,e-visa,visa on arrival
 Senegal,Ethiopia,e-visa,visa on arrival
 Senegal,Guyana,visa on arrival,visa required
 Senegal,Iran,e-visa,visa on arrival
-Senegal,Mozambique,e-visa,visa on arrival
+Senegal,Mozambique,e-visa,visa free
 Senegal,Palestine,visa free,visa required
-Senegal,Suriname,90,visa required
-Senegal,Uganda,e-visa,visa on arrival
 Serbia,Angola,visa on arrival,visa required
 Serbia,Antigua and Barbuda,e-visa,visa free
 Serbia,Azerbaijan,e-visa,visa free
+Serbia,Djibouti,e-visa,visa on arrival
 Serbia,Guyana,visa on arrival,visa required
 Serbia,Iran,e-visa,visa on arrival
 Serbia,Mozambique,e-visa,visa on arrival
 Serbia,Nigeria,visa on arrival,visa required
 Serbia,Saint Kitts and Nevis,e-visa,visa free
-Serbia,Senegal,visa required,visa on arrival
 Serbia,Sierra Leone,visa on arrival,visa required
-Serbia,Uganda,e-visa,visa on arrival
+Serbia,Venezuela,visa required,visa free
 Seychelles,Azerbaijan,covid ban,visa required
+Seychelles,Djibouti,e-visa,visa on arrival
 Seychelles,Ethiopia,e-visa,visa on arrival
 Seychelles,Guyana,visa on arrival,visa required
 Seychelles,Iran,e-visa,visa on arrival
 Seychelles,Palestine,visa free,visa required
 Seychelles,Sri Lanka,e-visa,visa free
-Seychelles,Suriname,90,visa required
 Sierra Leone,Angola,visa on arrival,visa required
 Sierra Leone,Azerbaijan,covid ban,visa required
+Sierra Leone,Djibouti,e-visa,visa on arrival
 Sierra Leone,Ethiopia,e-visa,visa on arrival
 Sierra Leone,Guyana,visa on arrival,visa required
 Sierra Leone,Iran,e-visa,visa on arrival
-Sierra Leone,Suriname,90,visa required
 Singapore,Benin,e-visa,visa on arrival
 Singapore,China,covid ban,visa free
 Singapore,Guyana,visa on arrival,visa required
 Singapore,Iran,e-visa,visa on arrival
 Singapore,Nigeria,visa on arrival,visa required
-Singapore,Papua New Guinea,e-visa,visa on arrival
+Singapore,South Korea,e-visa,visa free
 Singapore,Sri Lanka,e-visa,visa free
-Singapore,Suriname,90,visa required
 Slovakia,Angola,visa on arrival,visa required
-Slovakia,Ethiopia,e-visa,visa on arrival
+Slovakia,Djibouti,e-visa,visa on arrival
 Slovakia,Gabon,e-visa,visa on arrival
 Slovakia,Gambia,90,visa required
 Slovakia,Guyana,visa on arrival,visa required
 Slovakia,Iran,e-visa,visa on arrival
+Slovakia,Myanmar,e-visa,visa on arrival
 Slovakia,Nigeria,visa on arrival,visa required
-Slovakia,Papua New Guinea,e-visa,visa on arrival
-Slovakia,Suriname,90,visa required
-Slovakia,Uganda,e-visa,visa on arrival
 Slovenia,Angola,visa on arrival,visa required
+Slovenia,Djibouti,e-visa,visa on arrival
 Slovenia,Gabon,e-visa,visa on arrival
 Slovenia,Guyana,visa on arrival,visa required
 Slovenia,Iran,e-visa,visa on arrival
+Slovenia,Myanmar,e-visa,visa on arrival
 Slovenia,Nigeria,visa on arrival,visa required
-Slovenia,Papua New Guinea,e-visa,visa on arrival
-Slovenia,Suriname,90,visa required
-Slovenia,Uganda,e-visa,visa on arrival
 Solomon Islands,Angola,visa on arrival,visa required
 Solomon Islands,Armenia,e-visa,visa on arrival
 Solomon Islands,Azerbaijan,covid ban,visa required
+Solomon Islands,Djibouti,e-visa,visa on arrival
 Solomon Islands,Guyana,visa on arrival,visa required
 Solomon Islands,Iran,e-visa,visa on arrival
 Solomon Islands,Nigeria,visa on arrival,visa required
-Solomon Islands,Papua New Guinea,e-visa,visa on arrival
-Solomon Islands,Suriname,90,visa required
 Somalia,Angola,visa on arrival,visa required
 Somalia,Azerbaijan,covid ban,visa required
 Somalia,Bolivia,visa on arrival,visa required
 Somalia,Canada,no admission,visa required
+Somalia,Djibouti,e-visa,visa on arrival
 Somalia,Ethiopia,e-visa,visa on arrival
 Somalia,Guyana,visa on arrival,visa required
 Somalia,Mozambique,e-visa,visa on arrival
 Somalia,Palestine,visa free,visa required
-Somalia,Senegal,visa required,visa on arrival
 Somalia,Sierra Leone,visa on arrival,visa required
 Somalia,Suriname,90,visa required
 South Africa,Azerbaijan,visa on arrival,visa required
+South Africa,Djibouti,e-visa,visa on arrival
 South Africa,Ethiopia,e-visa,visa on arrival
 South Africa,Iran,e-visa,visa on arrival
 South Africa,Suriname,90,visa required
-South Africa,Uganda,e-visa,visa on arrival
 South Korea,Angola,visa on arrival,visa required
-South Korea,Ethiopia,e-visa,visa on arrival
+South Korea,Djibouti,e-visa,visa on arrival
 South Korea,Gabon,e-visa,visa on arrival
 South Korea,Iran,e-visa,visa on arrival
-South Korea,Myanmar,e-visa,visa free
+South Korea,Myanmar,e-visa,visa on arrival
 South Korea,Nigeria,visa on arrival,visa required
-South Korea,Papua New Guinea,e-visa,visa on arrival
 South Korea,Somalia,visa on arrival,visa required
-South Korea,Uganda,e-visa,visa on arrival
 South Sudan,Angola,visa on arrival,visa required
 South Sudan,Azerbaijan,covid ban,visa required
 South Sudan,Bangladesh,visa on arrival,visa required
-South Sudan,Barbados,90,visa required
+South Sudan,Djibouti,e-visa,visa on arrival
 South Sudan,Ethiopia,e-visa,visa on arrival
 South Sudan,Guyana,visa on arrival,visa required
 South Sudan,Iran,e-visa,visa on arrival
 South Sudan,Nigeria,visa on arrival,visa required
 South Sudan,Saint Kitts and Nevis,e-visa,visa free
-South Sudan,Senegal,visa required,visa on arrival
 South Sudan,Sierra Leone,visa on arrival,visa required
-South Sudan,Suriname,90,visa required
 Spain,Angola,visa on arrival,visa required
-Spain,Ethiopia,e-visa,visa on arrival
+Spain,Djibouti,e-visa,visa on arrival
 Spain,Gabon,e-visa,visa on arrival
 Spain,Iran,e-visa,visa on arrival
 Spain,Myanmar,e-visa,visa on arrival
 Spain,Nigeria,visa on arrival,visa required
-Spain,Papua New Guinea,e-visa,visa on arrival
-Spain,Suriname,90,visa required
-Spain,Uganda,e-visa,visa on arrival
+Spain,South Korea,e-visa,visa free
 Sri Lanka,Angola,visa on arrival,visa required
 Sri Lanka,Azerbaijan,visa on arrival,visa required
+Sri Lanka,Djibouti,e-visa,visa on arrival
 Sri Lanka,Guyana,visa on arrival,visa required
 Sri Lanka,Mozambique,e-visa,visa on arrival
 Sri Lanka,Nigeria,visa on arrival,visa required
-Sri Lanka,Senegal,visa required,visa free
 Sri Lanka,Suriname,90,visa required
-Sri Lanka,Tajikistan,30,visa required
-Sri Lanka,Uganda,e-visa,visa on arrival
 Sri Lanka,Venezuela,90,visa required
 Saint Vincent and the Grenadines,Angola,visa on arrival,visa required
 Saint Vincent and the Grenadines,Azerbaijan,covid ban,visa required
+Saint Vincent and the Grenadines,Djibouti,e-visa,visa on arrival
 Saint Vincent and the Grenadines,Egypt,visa on arrival,visa required
-Saint Vincent and the Grenadines,Ghana,90,visa required
 Saint Vincent and the Grenadines,Iran,e-visa,visa on arrival
 Saint Vincent and the Grenadines,Nigeria,visa on arrival,visa required
 Saint Vincent and the Grenadines,Turkey,visa on arrival,visa required
-Saint Vincent and the Grenadines,Ukraine,90,visa required
 Sudan,Angola,visa on arrival,visa required
 Sudan,Azerbaijan,covid ban,visa required
-Sudan,Barbados,90,visa required
 Sudan,Bolivia,visa on arrival,visa required
+Sudan,Djibouti,e-visa,visa on arrival
 Sudan,Ethiopia,e-visa,visa on arrival
 Sudan,Guyana,visa on arrival,visa required
 Sudan,Iran,e-visa,visa on arrival
 Sudan,Libya,no admission,visa required
-Sudan,Senegal,visa required,visa on arrival
 Sudan,Sierra Leone,visa on arrival,visa required
-Sudan,Suriname,90,visa required
-Sudan,Uganda,e-visa,visa on arrival
 Suriname,Angola,visa on arrival,visa required
 Suriname,Armenia,e-visa,visa on arrival
 Suriname,Azerbaijan,covid ban,visa required
 Suriname,Bangladesh,visa on arrival,visa required
+Suriname,Djibouti,e-visa,visa on arrival
 Suriname,Iran,e-visa,visa on arrival
 Suriname,Nigeria,visa on arrival,visa required
 Suriname,Sierra Leone,visa on arrival,visa required
-Suriname,Uganda,e-visa,visa on arrival
 Sweden,Angola,visa on arrival,visa required
-Sweden,Ethiopia,e-visa,visa on arrival
+Sweden,Djibouti,e-visa,visa on arrival
 Sweden,Gabon,e-visa,visa on arrival
 Sweden,Iran,e-visa,visa on arrival
+Sweden,Myanmar,e-visa,visa on arrival
 Sweden,Nigeria,visa on arrival,visa required
-Sweden,Papua New Guinea,e-visa,visa on arrival
-Sweden,Suriname,90,visa required
-Sweden,Uganda,e-visa,visa on arrival
+Sweden,South Korea,e-visa,visa free
 Switzerland,Angola,visa on arrival,visa required
-Switzerland,Ethiopia,e-visa,visa on arrival
+Switzerland,Djibouti,e-visa,visa on arrival
 Switzerland,Iran,e-visa,visa on arrival
 Switzerland,Myanmar,e-visa,visa on arrival
 Switzerland,Nigeria,visa on arrival,visa required
-Switzerland,Papua New Guinea,e-visa,visa on arrival
 Switzerland,Sierra Leone,visa on arrival,visa required
-Switzerland,Suriname,90,visa required
-Switzerland,Uganda,e-visa,visa on arrival
 Syria,Angola,visa on arrival,visa required
 Syria,Azerbaijan,covid ban,visa required
-Syria,Cambodia,visa on arrival,visa required
+Syria,Djibouti,e-visa,visa on arrival
 Syria,Guyana,visa on arrival,visa required
 Syria,Libya,no admission,visa required
-Syria,Mauritania,visa required,visa free
 Syria,Nigeria,visa on arrival,visa required
 Syria,Palestine,visa free,visa required
-Syria,Senegal,visa required,visa on arrival
 Syria,Sierra Leone,visa on arrival,visa required
+Syria,Sri Lanka,visa required,e-visa
 Syria,Sudan,visa required,visa free
 Syria,Suriname,90,visa required
-Syria,Uganda,e-visa,visa on arrival
 Taiwan,Angola,visa on arrival,visa required
 Taiwan,Armenia,e-visa,visa on arrival
 Taiwan,Azerbaijan,covid ban,visa required
 Taiwan,Bolivia,visa on arrival,visa required
-Taiwan,Ethiopia,e-visa,visa on arrival
+Taiwan,Djibouti,e-visa,visa on arrival
 Taiwan,Georgia,no admission,visa required
 Taiwan,Guyana,visa on arrival,visa required
 Taiwan,Hong Kong,30,visa required
 Taiwan,Iran,e-visa,visa on arrival
+Taiwan,Myanmar,visa required,visa on arrival
 Taiwan,Nigeria,visa on arrival,visa required
-Taiwan,Papua New Guinea,e-visa,visa on arrival
 Taiwan,Philippines,visa required,e-visa
-Taiwan,Senegal,visa required,visa on arrival
 Taiwan,Sierra Leone,visa on arrival,visa required
-Taiwan,Suriname,90,visa required
-Taiwan,Uganda,e-visa,visa on arrival
+Taiwan,South Korea,e-visa,visa free
 Tajikistan,Angola,visa on arrival,visa required
+Tajikistan,Djibouti,e-visa,visa on arrival
 Tajikistan,Gambia,90,visa required
 Tajikistan,Guyana,visa on arrival,visa required
 Tajikistan,Iran,e-visa,visa on arrival
@@ -1751,66 +1488,56 @@ Tajikistan,Kyrgyzstan,no admission,visa free
 Tajikistan,Nigeria,visa on arrival,visa required
 Tajikistan,Oman,e-visa,visa free
 Tajikistan,Palestine,visa free,visa required
-Tajikistan,Senegal,visa required,visa on arrival
 Tajikistan,Sierra Leone,visa on arrival,visa required
-Tajikistan,Suriname,90,visa required
 Tajikistan,Syria,visa required,visa on arrival
-Tajikistan,Uganda,e-visa,visa on arrival
 Tanzania,Angola,visa on arrival,visa required
 Tanzania,Azerbaijan,covid ban,visa required
+Tanzania,Djibouti,e-visa,visa on arrival
 Tanzania,Ethiopia,e-visa,visa on arrival
 Tanzania,Guyana,visa on arrival,visa required
 Tanzania,Iran,e-visa,visa on arrival
-Tanzania,Suriname,90,visa required
 Thailand,Albania,visa required,visa free
 Thailand,Angola,visa on arrival,visa required
-Thailand,Ethiopia,e-visa,visa on arrival
+Thailand,Djibouti,e-visa,visa on arrival
 Thailand,Guyana,visa on arrival,visa required
 Thailand,Iran,e-visa,visa on arrival
 Thailand,Nigeria,visa on arrival,visa required
 Thailand,Palestine,visa free,visa required
-Thailand,Papua New Guinea,e-visa,visa on arrival
-Thailand,Suriname,90,visa required
 Timor-Leste,Angola,visa on arrival,visa required
 Timor-Leste,Armenia,e-visa,visa on arrival
 Timor-Leste,Azerbaijan,covid ban,visa required
 Timor-Leste,Bolivia,visa on arrival,visa required
+Timor-Leste,Djibouti,e-visa,visa on arrival
 Timor-Leste,Egypt,visa on arrival,visa required
 Timor-Leste,Guyana,visa on arrival,visa required
 Timor-Leste,Iran,e-visa,visa on arrival
 Timor-Leste,Mozambique,e-visa,visa on arrival
 Timor-Leste,Nigeria,visa on arrival,visa required
 Timor-Leste,Palestine,visa free,visa required
-Timor-Leste,Senegal,visa required,visa free
-Timor-Leste,Suriname,90,visa required
-Timor-Leste,Uganda,e-visa,visa on arrival
+Timor-Leste,United Kingdom,180,visa required
 Togo,Angola,visa on arrival,visa required
 Togo,Azerbaijan,covid ban,visa required
-Togo,Barbados,90,visa required
+Togo,Djibouti,e-visa,visa on arrival
 Togo,Ethiopia,e-visa,visa on arrival
 Togo,Guyana,visa on arrival,visa required
 Togo,Iran,e-visa,visa on arrival
-Togo,Namibia,visa on arrival,visa required
-Togo,Suriname,90,visa required
-Togo,Uganda,e-visa,visa on arrival
 Tonga,Angola,visa on arrival,visa required
 Tonga,Armenia,e-visa,visa on arrival
 Tonga,Azerbaijan,covid ban,visa required
+Tonga,Djibouti,e-visa,visa on arrival
 Tonga,Guyana,visa on arrival,visa required
 Tonga,Iran,e-visa,visa on arrival
 Tonga,Nigeria,visa on arrival,visa required
 Tonga,Pakistan,e-visa,visa free
-Tonga,Papua New Guinea,e-visa,visa on arrival
-Tonga,Senegal,visa required,visa on arrival
-Tonga,Suriname,90,visa required
 Trinidad and Tobago,Angola,visa on arrival,visa required
 Trinidad and Tobago,Armenia,e-visa,visa on arrival
 Trinidad and Tobago,Azerbaijan,covid ban,visa required
+Trinidad and Tobago,Djibouti,e-visa,visa on arrival
 Trinidad and Tobago,Iran,e-visa,visa on arrival
 Trinidad and Tobago,Nigeria,visa on arrival,visa required
-Trinidad and Tobago,Uganda,e-visa,visa on arrival
 Tunisia,Angola,visa on arrival,visa required
 Tunisia,Azerbaijan,covid ban,visa required
+Tunisia,Djibouti,e-visa,visa on arrival
 Tunisia,Ethiopia,e-visa,visa on arrival
 Tunisia,Guyana,visa on arrival,visa required
 Tunisia,Iran,e-visa,visa on arrival
@@ -1819,60 +1546,53 @@ Tunisia,Oman,e-visa,visa free
 Tunisia,Palestine,visa free,visa required
 Tunisia,Sierra Leone,visa on arrival,visa required
 Tunisia,Suriname,90,visa required
-Tunisia,Uganda,e-visa,visa on arrival
 Turkey,Angola,visa on arrival,visa required
 Turkey,Bahrain,e-visa,visa on arrival
 Turkey,Burkina Faso,visa on arrival,visa required
+Turkey,Djibouti,e-visa,visa on arrival
+Turkey,Egypt,visa required,visa on arrival
 Turkey,Equatorial Guinea,90,visa required
 Turkey,Gabon,e-visa,visa on arrival
 Turkey,Guyana,visa on arrival,visa required
 Turkey,Libya,visa on arrival,visa required
 Turkey,Nigeria,visa on arrival,visa required
 Turkey,Palestine,visa free,visa required
-Turkey,Suriname,90,visa required
-Turkey,Uganda,e-visa,visa on arrival
 Turkmenistan,Angola,visa on arrival,visa required
 Turkmenistan,Armenia,visa required,visa on arrival
+Turkmenistan,Djibouti,e-visa,visa on arrival
 Turkmenistan,Guyana,visa on arrival,visa required
 Turkmenistan,Iran,e-visa,visa on arrival
 Turkmenistan,Nigeria,visa on arrival,visa required
 Turkmenistan,Palestine,visa free,visa required
-Turkmenistan,Senegal,visa required,visa on arrival
 Turkmenistan,Sierra Leone,visa on arrival,visa required
-Turkmenistan,Suriname,90,visa required
 Turkmenistan,Syria,visa required,visa on arrival
-Turkmenistan,Turkey,visa required,visa free
-Turkmenistan,Uganda,e-visa,visa on arrival
-Turkmenistan,Uzbekistan,e-visa,visa free
 Tuvalu,Angola,visa on arrival,visa required
 Tuvalu,Armenia,e-visa,visa on arrival
 Tuvalu,Azerbaijan,covid ban,visa required
+Tuvalu,Djibouti,e-visa,visa on arrival
 Tuvalu,Guyana,visa on arrival,visa required
 Tuvalu,Iran,e-visa,visa on arrival
 Tuvalu,Nigeria,visa on arrival,visa required
 Tuvalu,Palestine,visa free,visa required
-Tuvalu,Papua New Guinea,e-visa,visa on arrival
-Tuvalu,Suriname,90,visa required
-Tuvalu,Uganda,e-visa,visa on arrival
 Uganda,Angola,visa on arrival,visa required
 Uganda,Azerbaijan,covid ban,visa required
+Uganda,Djibouti,e-visa,visa on arrival
 Uganda,Ethiopia,e-visa,visa on arrival
 Uganda,Guyana,visa on arrival,visa required
 Uganda,Iran,e-visa,visa on arrival
 Uganda,Mauritius,visa required,visa free
 Uganda,South Sudan,e-visa,visa on arrival
-Uganda,Suriname,90,visa required
 Ukraine,Angola,visa on arrival,visa required
+Ukraine,Djibouti,e-visa,visa on arrival
 Ukraine,Gambia,90,visa required
 Ukraine,Guyana,visa on arrival,visa required
 Ukraine,Iran,e-visa,visa on arrival
-Ukraine,Israel,90,visa required
 Ukraine,Kosovo,90,visa required
+Ukraine,Myanmar,e-visa,visa on arrival
 Ukraine,Nigeria,visa on arrival,visa required
-Ukraine,Suriname,90,visa required
-Ukraine,Uganda,e-visa,visa on arrival
 United Arab Emirates,Angola,visa on arrival,visa required
 United Arab Emirates,Cameroon,visa on arrival,visa required
+United Arab Emirates,Djibouti,e-visa,visa on arrival
 United Arab Emirates,Swaziland,visa required,visa free
 United Arab Emirates,Gabon,e-visa,visa on arrival
 United Arab Emirates,Ghana,visa on arrival,visa required
@@ -1883,91 +1603,77 @@ United Arab Emirates,Kiribati,visa required,visa free
 United Arab Emirates,Niger,visa on arrival,visa required
 United Arab Emirates,Nigeria,visa on arrival,visa required
 United Arab Emirates,Palestine,visa free,visa required
-United Arab Emirates,Suriname,90,visa required
 United Arab Emirates,Turkey,visa on arrival,visa required
-United Arab Emirates,Uganda,e-visa,visa on arrival
 United Kingdom,Angola,visa on arrival,visa required
-United Kingdom,Ethiopia,e-visa,visa on arrival
+United Kingdom,Djibouti,e-visa,visa on arrival
 United Kingdom,Gabon,e-visa,visa on arrival
+United Kingdom,Myanmar,e-visa,visa on arrival
 United Kingdom,Nigeria,visa on arrival,visa required
-United Kingdom,Papua New Guinea,e-visa,visa on arrival
-United Kingdom,Suriname,90,visa required
-United Kingdom,Uganda,e-visa,visa on arrival
+United Kingdom,South Korea,e-visa,visa free
 United States,Angola,visa on arrival,visa required
-United States,Ethiopia,e-visa,visa on arrival
+United States,Djibouti,e-visa,visa on arrival
+United States,Equatorial Guinea,visa free,visa required
 United States,Gabon,e-visa,visa on arrival
+United States,Myanmar,e-visa,visa on arrival
 United States,Nigeria,visa on arrival,visa required
-United States,Papua New Guinea,e-visa,visa on arrival
-United States,Suriname,90,visa required
+United States,South Korea,e-visa,visa free
 United States,Turkey,visa on arrival,visa required
-United States,Uganda,e-visa,visa on arrival
-United States,Uzbekistan,e-visa,visa free
 Uruguay,Angola,visa on arrival,visa required
 Uruguay,Azerbaijan,covid ban,visa required
-Uruguay,Grenada,90,visa required
+Uruguay,Djibouti,e-visa,visa on arrival
 Uruguay,Iran,e-visa,visa on arrival
 Uruguay,Nigeria,visa on arrival,visa required
-Uruguay,Papua New Guinea,e-visa,visa on arrival
-Uruguay,Senegal,visa required,visa on arrival
 Uruguay,Sierra Leone,visa on arrival,visa required
-Uruguay,Suriname,90,visa required
-Uruguay,Uganda,e-visa,visa on arrival
 Uzbekistan,Angola,visa on arrival,visa required
+Uzbekistan,Djibouti,e-visa,visa on arrival
 Uzbekistan,Gambia,90,visa required
 Uzbekistan,Guyana,visa on arrival,visa required
 Uzbekistan,Iran,e-visa,visa on arrival
 Uzbekistan,Nigeria,visa on arrival,visa required
 Uzbekistan,Oman,e-visa,visa free
 Uzbekistan,Palestine,visa free,visa required
-Uzbekistan,Senegal,visa required,visa on arrival
 Uzbekistan,Sierra Leone,visa on arrival,visa required
-Uzbekistan,Suriname,90,visa required
 Uzbekistan,Syria,visa required,visa on arrival
-Uzbekistan,Uganda,e-visa,visa on arrival
 Vanuatu,Andorra,visa required,visa free
 Vanuatu,Angola,visa on arrival,visa required
 Vanuatu,Armenia,e-visa,visa on arrival
 Vanuatu,Azerbaijan,covid ban,visa required
 Vanuatu,Belize,visa free,visa required
+Vanuatu,Djibouti,e-visa,visa on arrival
 Vanuatu,Guyana,visa on arrival,visa required
 Vanuatu,Iceland,visa required,visa free
 Vanuatu,Iran,e-visa,visa on arrival
-Vanuatu,Ireland,90,visa required
 Vanuatu,Liechtenstein,visa required,visa free
 Vanuatu,Monaco,visa required,visa free
 Vanuatu,Nigeria,visa on arrival,visa required
 Vanuatu,Norway,visa required,visa free
-Vanuatu,Papua New Guinea,e-visa,visa on arrival
 Vanuatu,San Marino,visa required,visa free
-Vanuatu,Suriname,90,visa required
+Vanuatu,United Kingdom,180,visa required
 Vatican,Angola,visa on arrival,visa required
 Vatican,Azerbaijan,covid ban,visa required
+Vatican,Djibouti,e-visa,visa on arrival
 Vatican,Egypt,visa on arrival,visa required
 Vatican,Guyana,visa on arrival,visa required
 Vatican,Iran,e-visa,visa on arrival
 Vatican,Mexico,visa required,visa free
 Vatican,Nigeria,visa on arrival,visa required
-Vatican,Papua New Guinea,e-visa,visa on arrival
 Vatican,Sierra Leone,visa on arrival,visa required
-Vatican,Suriname,90,visa required
-Vatican,Uganda,e-visa,visa on arrival
 Vatican,Zambia,e-visa,visa on arrival
 Venezuela,Angola,visa on arrival,visa required
 Venezuela,Armenia,e-visa,visa on arrival
 Venezuela,Azerbaijan,covid ban,visa required
-Venezuela,Belize,visa required,visa free
-Venezuela,Costa Rica,visa required,visa free
+Venezuela,Djibouti,e-visa,visa on arrival
 Venezuela,Guyana,visa on arrival,visa required
-Venezuela,Mexico,visa required,visa free
+Venezuela,Indonesia,visa required,visa on arrival
 Venezuela,Nigeria,visa on arrival,visa required
 Venezuela,Palestine,visa free,visa required
-Venezuela,Senegal,visa required,visa on arrival
+Venezuela,Serbia,visa required,visa free
 Venezuela,Sierra Leone,visa on arrival,visa required
 Venezuela,Suriname,90,visa required
 Venezuela,Tajikistan,visa on arrival,visa required
-Venezuela,Uganda,e-visa,visa on arrival
 Vietnam,Angola,visa on arrival,visa required
 Vietnam,Azerbaijan,visa on arrival,visa required
+Vietnam,Djibouti,e-visa,visa on arrival
 Vietnam,Ecuador,e-visa,visa free
 Vietnam,Guyana,visa on arrival,visa required
 Vietnam,Iran,e-visa,visa on arrival
@@ -1975,12 +1681,10 @@ Vietnam,Kuwait,visa required,visa on arrival
 Vietnam,Nigeria,visa on arrival,visa required
 Vietnam,Oman,e-visa,visa free
 Vietnam,Palestine,visa free,visa required
-Vietnam,Senegal,visa required,visa on arrival
-Vietnam,Suriname,90,visa required
-Vietnam,Uganda,e-visa,visa on arrival
 Yemen,Angola,visa on arrival,visa required
 Yemen,Azerbaijan,covid ban,visa required
 Yemen,Bolivia,visa on arrival,visa required
+Yemen,Djibouti,e-visa,visa on arrival
 Yemen,Ecuador,e-visa,visa free
 Yemen,Guyana,visa on arrival,visa required
 Yemen,Iran,no admission,visa required
@@ -1989,17 +1693,16 @@ Yemen,Mozambique,e-visa,visa on arrival
 Yemen,Nigeria,visa on arrival,visa required
 Yemen,Palestine,visa free,visa required
 Yemen,Sierra Leone,visa on arrival,visa required
-Yemen,Suriname,90,visa required
-Yemen,Uganda,e-visa,visa on arrival
 Zambia,Azerbaijan,covid ban,visa required
+Zambia,Djibouti,e-visa,visa on arrival
 Zambia,Ethiopia,e-visa,visa on arrival
 Zambia,Guyana,visa on arrival,visa required
 Zambia,Iran,e-visa,visa on arrival
 Zambia,Suriname,90,visa required
 Zimbabwe,Azerbaijan,covid ban,visa required
+Zimbabwe,Djibouti,e-visa,visa on arrival
 Zimbabwe,Ethiopia,e-visa,visa on arrival
 Zimbabwe,Guyana,visa on arrival,visa required
 Zimbabwe,Iran,e-visa,visa on arrival
 Zimbabwe,Palestine,visa free,visa required
 Zimbabwe,Sierra Leone,visa on arrival,visa required
-Zimbabwe,Suriname,90,visa required
